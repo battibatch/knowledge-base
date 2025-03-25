@@ -3,187 +3,59 @@
 Looks like there are 3? SANS, IANS, and WIX. The IANS CSMM seems to be the most prevalent, and is reference by Cloud Security Alliance (CSA) and their members.
 
 ## SANS 8 Domains of the Cloud Security Maturity Model
-Each domain is broken down into focus areas. Each focus area has 5 levels: Initial, Managed, Defined, Quantitatively Managed, Optimizing. Each level has individual tasks to complete. They are all listed in the poster [here](https://sansorg.egnyte.com/dl/xzzOAyX2AK).
+Each domain is broken down into focus areas. Each focus area has 5 levels: Initial, Managed, Defined, Quantitatively Managed, Optimizing. Each level has individual tasks to complete. They are all listed in the poster [here](https://sansorg.egnyte.com/dl/xzzOAyX2AK). In the following list, I did not list each task to be completed. Please see the CSV file for the checklist of each item to be done.
 
 ### 1. Data Protection
 
 * Data Encryption
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Data Classification and Protection
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Data Backup and Resiliency
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 
 ### 2. IAM
 
 * Segregation
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Identity Management
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Access Management
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
+
 
 ### 3. Security Governance
 
 * Cost Management
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Cloud Governance Committee
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Security policy
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 
 ### 4. Security Assurance
 
 * Posture Validation
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Regulatory Compliance
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Security Testing
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
+
 
 ### 5. Application and Workload Protection
 
 * Security Protection Services
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Cloud Workload Assessment
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Cloud Application Practices
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 
 ### 6. Detection and Response
 
 * Security Intelligence
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Analysis and Monitoring
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Response
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Log Management
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 
 ### 7. Infrastructure Architecture and Protection
 
 * Config Management
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Image Management
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Cloud Secure Architecture
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Resource Management
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Network Control
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 
 ### 8. Workforce Readiness
 
 * Skill Readiness
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 * Organizational Alignment
-    * Initial
-    * Managed
-    * Defined
-    * Quantitatively Managed
-    * Optimizing
 
 
 ## IANS Levels of Cloud Security Maturity
