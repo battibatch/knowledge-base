@@ -1,0 +1,288 @@
+# Cloud Security Maturity Model Playbook
+
+## Data Protection
+
+- **Establish and maintain an enterprise-wide data encryption policy aligned with relevant regulations and compliance requirements.**
+- Determine the required level of trust for key management based on compliance needs.
+- Configure encryption settings for all adopted cloud services.
+- Ensure all cloud-to-on-premises communication channels are secured with encryption.
+- Implement a key management service to manage encryption keys.
+- Define and implement disaster recovery procedures for encryption keys.
+- Implement encryption-related configurations using Infrastructure as Code (IaC).
+- Leverage a key management service and customer-managed keys for cloud-based encryption.
+- Establish and enforce a workflow for regular key rotation.
+- Implement role-based access control with the principle of least privilege for managing encryption keys.
+- Consider using Hardware Security Modules (HSMs) for key management when required by regulations or industry standards.
+- Validate that encryption requirements are consistently implemented for data at rest and in transit across all cloud services.
+- Implement periodic validation to ensure all keys in the cloud environment are managed by a key management service.
+- Conduct exercises to test the recovery of keys in the event of a disaster.
+- **Implement a process for data classification and protection based on sensitivity.**
+- Deploy technologies to discover sensitive data across all cloud services and storage locations.
+- Apply appropriate protective configurations (e.g., encryption, de-identification) to discovered sensitive data.
+- Expand the coverage of sensitive data discovery to include all utilized SaaS services (e.g., through a Cloud Access Security Broker).
+- Implement digital rights management for sensitive data, in addition to automated data protection measures.
+- Utilize API integrations for continuous scanning and response to sensitive data patterns and cloud malware threats.
+- **Define and document business continuity and disaster recovery requirements for cloud data.**
+- Configure the cloud environment to meet defined availability requirements.
+- Update configuration guardrails to include backup configurations.
+- Automatically identify resources storing data for business-critical applications for backup considerations (e.g., using tags and resource IDs).
+- Implement Infrastructure as Code (IaC) and event-driven architecture as part of the backup strategy.
+- Evaluate stored data to ensure compliance with availability requirements.
+- Protect critical data using immutable backups.
+- Leverage data classification to validate data retention and backup objectives.
+
+## Identity and Access Management (IAM)
+
+- **Mandate the use of approved cloud environments and accounts.**
+- Utilize isolated functional areas (e.g., development, staging, production) and separate projects to minimize the blast radius of potential incidents.
+- Establish an enterprise resource permission segregation model aligned with cloud provider best practices.
+- Determine the necessary level of separation between different environments and projects.
+- Ensure the segregation model considers enterprise security variations (e.g., departments or lines of business).
+- Implement Infrastructure as Code (IaC) templates to enforce the segregation model.
+- Align the segregation model with multi-cloud environments, ensuring logical separation is maintained consistently across providers.
+- Implement automation to periodically identify and remediate discrepancies from the defined segregation model.
+- Update configuration guardrails to include segregation configurations.
+- **Consolidate enterprise identities into a single system for single sign-on (SSO).** This could involve federating an on-premises system or using a cloud-based identity management system.
+- Ensure the single authentication system is used across all cloud-based data and control planes.
+- Utilize user templates for consistent provisioning and deprovisioning of accounts and enforce account security policies.
+- Automate the centralized access request, provisioning, and deprovisioning workflow with proper approvals and visibility.
+- Establish a strategy for managing third-party and client identities accessing the cloud environment, including whether directory integration is necessary.
+- Align user management practices with multi-cloud environments, ideally using a single directory system across all leveraged cloud providers.
+- Consolidate customer identities in a centralized directory, potentially integrated with the enterprise system with appropriate segregation.
+- Enforce multi-factor authentication (MFA) or passwordless authentication for all privileged users.
+- Expand the usage of MFA/passwordless authentication to more general users.
+- Eliminate the use of weak authentication methods in the environment.
+- **Establish organizational roles with defined access requirements to the cloud environment.**
+- Apply the required access permissions for each role type based on the principle of least privilege.
+- Review and refine default permission configurations provided by cloud providers.
+- Secure leadership and organizational buy-in for managing access control effectively.
+- Implement risk reduction measures for privileged identities, including eliminating unnecessary privileged access and accounts.
+- Use dedicated administrative accounts that are not used for other purposes.
+- Implement role management based on automated workflows with proper approvals and visibility.
+- Ensure enterprise security teams have visibility to review and evaluate access permissions for monitoring and incident response.
+- Utilize just-in-time (JIT) or temporary access management for privileged access.
+- Individually review and validate permissions for adopted cloud services, refining them beyond the cloud provider's default roles based on the least privilege principle.
+- Consider incorporating telemetry data from endpoints, networks, data, and applications into access control policies to enable a zero-trust model.
+- Limit administrative account access to specific, isolated endpoint assets dedicated for such use.
+- Maintain consistent approaches and workflows for access management across multi-cloud environments.
+- Leverage attack simulations to identify potential breach scenarios and drive access reduction.
+
+## Security Governance
+
+- **Implement cost management principles and practices for cloud resources.**
+- Establish clear financial alignment between resources and ownership using resource tagging for cost attribution.
+- Define and communicate a cost management policy.
+- Implement cost planning efforts and centralize initial budget deviation reporting.
+- Provide education on cost management best practices.
+- Align subscription strategies with resource utilization and purchasing models.
+- Implement reporting and alerting mechanisms for cost deviations and underutilization for each line of business.
+- Drive remediation actions based on cost reporting.
+- Align business goals with planned budgets.
+- Adjust architecture patterns to optimize alignment with subscription models.
+- Actively manage and forecast budget activities to align with business goals.
+- **Establish a Cloud Governance Committee with representation from relevant departments.**
+- Ensure the committee meets regularly to discuss and make cloud-related decisions.
+- Identify and engage cross-functional stakeholders and sponsors.
+- Formulate a charter for the Cloud Governance Committee.
+- Identify the areas of interest and focus for each team related to cloud governance.
+- Ensure sponsors have identified delegates to support continuous operations.
+- Define the operating rhythm of the committee.
+- Establish key metrics to evaluate the performance of cloud governance efforts.
+- Formalize the decision authority, execution, and process for the committee's enforcement.
+- Maintain a continuous process for managing a risk register and a pipeline of topics for the committee.
+- Regularly assess the committee's membership span within the organization.
+- Evaluate performance indicators and incorporate leadership feedback to adjust the committee's focus.
+- **Develop and maintain a comprehensive Cloud Security Policy.**
+- Define key control objectives for the cloud environment and map them to detailed technical guardrails.
+- Draft a communication plan emphasizing the incremental nature of the cloud security policy.
+- Identify the organization's risk appetite to inform policy drafting.
+- Communicate the Cloud Security Policy to all cloud-related personnel and third-party providers.
+- Establish a recurring process for policy review.
+- Align the adopted policy with industry best practices.
+- Enforce the policy through automated means using guardrails in the environment.
+- Refine enforcement methods and processes based on feedback and metrics.
+- Establish an exception management process for the Cloud Security Policy.
+- Continuously adjust the policy in alignment with changes in industry best practices, compliance requirements, and cloud service adoption.
+
+## Security Assurance
+
+- **Establish comprehensive visibility into cloud resources, configurations, and deployments.** Aim for 100% code-to-code visibility across repositories, pipelines, and cloud environments.
+- **Normalize security data across clouds and architectures to simplify analysis and management.**
+- **Map application and infrastructure ownership and business context for improved understanding of risk.**
+- **Proactively identify and reduce critical risks across workloads, cloud environments, data, and the Software Development Lifecycle (SDLC).**
+- **Prioritize attack paths based on runtime context and validation.**
+- **Provide clear context, guidance, and remediation steps (ideally with code fixes) for identified risks.**
+- **Automate security alerts and notifications to the appropriate owners for proactive remediation.**
+- **Ingrain security into the development process through self-service capabilities.**
+- **Monitor and report on security KPIs and trends by business units.**
+- **Answer the "so what" for security findings, providing clear business impact.**
+- **Visualize security data for clarity and understanding.**
+- **Support security recommendations with evidence.**
+- **Ensure clear and actionable remediation descriptions are provided.**
+- **Aim for automation-ready remediation processes.**
+- **Provide code context for cloud-native environments to facilitate secure development.**
+- **Identify relevant decision-makers, risk owners, and executives accountable for cloud-dependent business processes and objectives.**
+- Review baseline security posture reports from cloud service providers.
+- Analyze the organization's cloud use cases and establish the current cloud security posture.
+- Identify appropriate benchmark standards for measuring the organization's cloud security posture.
+- Remediate top findings based on baseline security posture reports.
+- Cross-map and benchmark controls against different frameworks based on requirements.
+- Identify internal stakeholders for each area of posture issues and reach a consensus on remediation timelines.
+- Implement automation to measure the design and operational effectiveness of cloud provider controls and report results to key stakeholders.
+- Publish key metrics on the overall performance of posture validation efforts.
+- Adopt tools such as GRC or CASB to streamline and automate posture validation workstreams.
+- **Identify relevant regulatory requirements for the workloads deployed in the cloud.** This includes understanding the type of data, nature of the workload, and geographical locations of cloud services.
+- Leverage compliance information provided by cloud service providers for evaluation.
+- Assess the end-to-end compliance of cloud-based workloads, considering the shared responsibility model and all involved service providers.
+- Perform self-assessments or audits with documentation to validate compliance requirements.
+- Establish a recurring review process for legal compliance requirements based on cloud setup changes (e.g., new service adoption or workload architecture).
+- Automate the monitoring of recurring compliance requirements in the cloud environment.
+- Regularly review generated compliance reports to validate adherence.
+- Integrate the compliance validation process with automated assurance processes, recording compliance data.
+- **Conduct regular security testing of the cloud environment and workloads.**
+- Perform vulnerability assessments using both traditional remote scanning and cloud-native assessment tools.
+- Conduct penetration testing exercises with various threat assumptions, including external attackers.
+- Utilize cloud provider security validation services to identify common misconfigurations and vulnerabilities.
+- Leverage cloud-native or third-party assessment tools to focus on configuration validation and detect misconfigurations.
+- Conduct penetration tests at regular intervals.
+- Consolidate vulnerability views across on-premises and cloud environments for a holistic perspective.
+- Base penetration testing on specific compromised scenarios that reflect real-world attacks, informed by threat intelligence and past incidents.
+- Remediate findings from the testing process according to internal timelines and validate both the fixes and engineering efforts to prevent future recurrence.
+- Develop threat models of the cloud environment and common access use cases to inform penetration and purple team testing scenarios.
+- Conduct regular attack simulations to better understand the blast radius of potential breaches and validate the effectiveness of security controls and processes.
+
+## Application and Workload Protection
+
+- **Leverage cloud-native security components and common cloud-based security protection services to protect cloud applications.** This may include cloud DNS, anti-DDoS protection, content delivery networks, API gateways, and cloud workload protection platforms.
+- Establish enterprise standards for protection profiles for each type of application, including baseline configurations for protection services.
+- Extend enterprise protection profiles to allow for fine-tuning and enhanced security beyond basic protection.
+- Provide guidelines for complex rule-based systems such as Web Application Firewalls (WAFs).
+- Validate and fine-tune the effectiveness of protective services and their configurations through threat modeling and red team exercises.
+- **Perform cloud workload assessments throughout the development lifecycle.**
+- Conduct penetration testing or other end-of-development-cycle testing for critical workloads.
+- Leverage Static Application Security Testing (SAST) and Dynamic Application Security Testing (DAST) during the development lifecycle.
+- Perform red team exercises on applications.
+- Integrate testing across various development steps of the CI/CD pipeline (e.g., check-ins, build, release, deployment phases).
+- Ensure the testing pipeline applies to all applications and related resources running in the cloud environment.
+- Perform threat modeling for applications (ideally for all cloud-based applications, including app logic and environment aspects) and use the results to fine-tune red team exercises.
+- **Adopt DevSecOps practices and leverage cloud-development resources and services for managing cloud-based applications.**
+- Involve development teams in the cloud security committee and major change management processes.
+- Utilize cloud-native services to manage application secrets, source code, and build processes, with a preference for PaaS-based security services.
+- Secure the CI/CD pipeline according to best practices and adopt it enterprise-wide.
+- Update enterprise coding standards to reflect the cloud-native environment.
+- Establish application design and architecture patterns for cloud-native solutions, aligned with the enterprise's cloud architecture for availability, scalability, and security.
+- Embed security functions within development teams.
+- Establish standard pipelines for application re-platforming towards cloud-native solutions.
+- Distribute approved design and architecture patterns as code for adoption by teams enterprise-wide.
+- Foster a culture of confidence in automated development and deployment capabilities, enabling frequent changes to support software lifecycles.
+- Enable development teams, supported by cloud-native tooling and collaboration, to continuously improve applications by adopting new cloud capabilities and architectures rapidly.
+- **Give developers cloud context directly within their IDEs and code repositories to promote secure-by-design principles.**
+- **Enforce code-to-cloud guardrails to prevent security issues from being deployed.**
+- **Protect the software supply chain by implementing Software Bill of Materials (SBOM) and conducting risk assessments of Open Source Software (OSS) and third-party components.**
+
+## Detection and Response
+
+- **Subscribe to relevant threat intelligence feeds.**
+- Analyze the cloud environment setup to generate original detection logic specific to the environment in use.
+- Refine industry intelligence feeds to improve detection accuracy.
+- Continuously generate new detection logic based on learnings from incidents and threat hunting activities.
+- Pivot detection logic from known bad indicators (e.g., IPs, binaries) to suspicious behaviors and activities.
+- Perform threat modeling and purple team exercises to identify abuse cases for monitoring.
+- Continuously evaluate and integrate additional threat analysis outputs with detection and monitoring tools.
+- Integrate relevant metrics into the security intelligence evaluation process.
+- **Enable cloud-native platform monitoring capabilities.**
+- Utilize out-of-the-box monitoring capabilities provided by cloud providers.
+- Collect cloud platform logs for analysis.
+- Integrate self-generated threat intelligence with monitoring systems.
+- Prioritize event and log types with higher security value for monitoring.
+- Normalize events across different sources to enable effective analysis across the environment.
+- Consolidate cloud platform logs and enterprise platform logs into a Security Information and Event Management (SIEM) system.
+- Collect and analyze network and flow/traffic-based logs to provide added context.
+- Maintain alerts at expected false positive rates through detection logic optimization to prevent alert fatigue.
+- Consolidate logs from multi-cloud platforms into a single technology or analyze them in their native environments before consolidating relevant alerts and logs for analysis.
+- **Document playbooks for common incident response tasks.**
+- Utilize cloud-native platform security monitoring technology for responding to critical detections.
+- Establish containment and eradication workflows for the cloud environment, supported by defined playbooks.
+- Use tabletop walkthroughs/exercises to refine incident response playbooks.
+- Automate the most frequent incident response playbooks, focusing on passive response tasks initially.
+- Conduct purple team exercises to validate detection and response capabilities.
+- Automate most incident response playbooks.
+- Implement a recurring process to review the effectiveness and efficiency of incident response playbooks.
+- Use metrics and KPIs to refine incident response playbooks and processes.
+- **Define log storage plans considering storage costs, ingestion, and transfer.**
+- Establish logging standards for cloud-native components and integrate configuration into automatic resource provisioning.
+- Consolidate logs from the cloud platform and core set of high-security value resources in the cloud.
+- Evaluate and optimize log collection and retention policies to balance security and efficiency/cost.
+- Parse logs and generate metric reports.
+- Clearly define logging levels.
+- Centrally collect additional logs from the environment.
+- Consolidate enterprise logs.
+- Align event logging requirements and configurations enterprise-wide.
+- Monitor log sources for errors and implement remediation processes.
+- Implement multi-cloud log consolidation and configuration normalization.
+- **Implement a comprehensive Endpoint Detection and Response (EDR) solution purpose-built for cloud-native threats.**
+- **Utilize intuitive investigation timelines and AI-powered copilots to speed up analysis and upskill security analysts.**
+- **Implement runtime blocking and 1-click containment playbooks to reduce Mean Time To Remediate (MTTR).**
+
+## Infrastructure Architecture and Protection
+
+- **Follow cloud provider best practices for configuration management.**
+- Define and implement enterprise guardrails for adopted cloud services.
+- Perform ad-hoc validation of configurations against guardrail templates.
+- Implement automated configuration guardrail validation to ensure resource conformance to configuration standards.
+- Generate alerts and notifications for non-compliant configurations.
+- Periodically review configurations based on lessons learned from incidents.
+- Implement automated configuration validation to prevent bad configurations from being provisioned and automate the remediation of key violations.
+- Automate the remediation of all non-compliant configurations.
+- **Develop an enterprise standard for images, considering security requirements.**
+- Restrict the use of VM and container images to approved ones.
+- Centrally manage golden images.
+- Perform VM and container builds through automated code-based processes, including security patches, configurations, and tooling.
+- Extend automated image management processes to manage the full lifecycle of images, including evergreen running images, across all computing environments (multi-cloud, on-premises).
+- Extend image management practices to multi-cloud environments.
+- **Adopt landing zone best practices.**
+- Benchmark against well-architected frameworks or architecture frameworks.
+- Create a roadmap to adopt necessary architectural improvements.
+- Define a path towards immutable architecture and Zero Trust architecture.
+- Define target patterns and a roadmap for their implementation.
+- Incorporate defensive architecture decisions based on threat intelligence.
+- Automate the enforcement and provisioning of most components of a well-architected framework.
+- Incorporate learnings from security monitoring and response into architectural advancements.
+- Periodically refine the target architecture in alignment with updates to well-architected frameworks and organizational demands.
+- **Implement a defined tagging scheme and inventory system, considering cost management.**
+- Automate resource management using code to ensure consistent resource creation and management.
+- Enforce the enterprise tagging scheme.
+- Implement mostly automated resource provisioning and management.
+- Establish automated mechanisms to apply guardrails to resources.
+- Utilize cloud provider or third-party asset inventory systems to map out assets in the cloud.
+- Consolidate resource visibility and management in a multi-cloud environment, preferably using the same tool across all cloud providers.
+- Continuously assign security guardrails during resource management processes.
+- **Determine geolocation and network segmentation requirements.**
+- Determine options for reliable and high-performing connectivity with the on-premises network.
+- Define IP schemas for Virtual Networks (VNets) and Virtual Private Clouds (VPCs).
+- Define the usage of cloud network components such as VNets/VPCs, internet gateways, subnets, VPC/private endpoints, and other Access Control Lists (ACLs) for security.
+- Establish an IP address management strategy to avoid resource dangling.
+- Prioritize the usage of native cloud defense components over third-party appliances.
+- Implement centralized management of network firewall rules.
+- Leverage Secure Access Service Edge (SASE) to enforce trusted access to the cloud environment.
+- Manage egress traffic from all cloud resources in addition to inbound controls.
+- Automate the usage of a catalog of multi-cloud and SaaS services to enforce secure connectivity for resource access.
+
+## Workforce Readiness
+
+- **Focus training efforts on core users and members responsible for setting up the cloud environment.**
+- Map job functions to required skills to align with training programs.
+- Develop security-specific training and certification paths for key groups of enterprise users (e.g., developers, infrastructure engineers, security teams, management, operations).
+- Establish on-the-job training, hands-on exercises, and job shadowing in addition to classroom and certification programs.
+- Make cloud security training available to general IT team members to expand the talent pool.
+- Conduct surveys with teams to validate the relevance of training to their job functions.
+- Refine the training scope to align with specific job requirements.
+- Consider gamifying certification and training efforts to increase engagement.
+- **Ensure cloud transformation is supported by all team members as needed.**
+- Identify and document required skills and map them to teams or departments using RACI charts.
+- Initially focus on the engineering aspects of cloud security to establish accountability and collaboration across the organization.
+- Review the organization's reporting structure and/or virtual team setups to align with cloud support functions.
+- Determine the organizational assignments to support the DevSecOps movement.
+- Establish RACI charts for cloud operations as they relate to security.
+- Evaluate the effectiveness of each aligned functional area by reviewing funding, resources, and operational metrics to enable adjustments to the support model for the cloud.
+- Consider business, audit, and external review factors when adjusting the organization's alignment from RACI, resource allocation, and strategic perspectives.gg
