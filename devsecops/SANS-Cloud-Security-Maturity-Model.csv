@@ -1,0 +1,266 @@
+Domain,Focus Area,Level,Items
+Data Protection,Data Encryption,Initial,Enterprise encryption policy is aligned with necessary regulatory and compliance requirement
+,,,The level of trust required has been determined with regards to key management (e.g. compliance)
+,,,Usage of the default CSP-managed key for encryption usage
+,,Managed,Encryption settings for each adopted service are configured
+,,,Cloud to on-prem communication is routed over a secure and encrypted channel
+,,,Key management service is used to manage keys
+,,,Disaster recovery requirements for keys have been established
+,,Defined,Encryption-related configurations are implemented by IaC
+,,,Key management service and customer-managed keys are leveraged for cloud-based encryption
+,,,A workflow is established for key rotation
+,,,Validated roles allowed to manage keys are based on least privilege
+,,Quantitatively Managed,"When required by regulatory or industry requirement, HSM-based key management service is leveraged to safeguard keys"
+,,,Validated encryption requirements are implemented across in-transit and stored data across all cloud services
+,,Optimizing,Periodic validation is in place for all keys in the cloud environment are managed by a key management service
+,,,Exercises on the recovery action in a disaster affecting keys are performed
+,Data Classification and Protection,Initial,Manual and limited automation inventory exists in locations where sensitive data is stored and SaaS services are used in alignment with policy.
+,,Managed,Discovery technologies deployed to locate sensitive data
+,,,Remediation is executed manually as needed
+,,,"Discovered sensitive data are manually validated and with protective configurations (encryption, de identification) applied"
+,,Defined,COverage of scanned locations is expanded to the discovery of other SaaS services utilized (cloud access security broker)
+,,Quantitatively Managed,"Digital-rights management is implemented, on top of automatic data protection by encryption and de-identification"
+,,Optimizing,API Integrations are used for scanning contents to find and respond to sensitive data patterns as well as threats like cloud malware
+,Data Backup and Resiliency,Initial,Business continuity and disaster recovery requirements have been identified and documented
+,,Managed,Cloud environment is configured on a best effort basis to match availability requirements
+,,,Configuration guardrails for configurations are updated to include backup configurations
+,,,Tag and resource IDs are used to automatically identify resources that store data for business-critical applications for backup considerations
+,,Defined,IaC and event driven architecture are implemented as an essential part of the backup strategy
+,,,Data stored is evaluated to ensure compliance with availability requirements
+,,Quantitatively Managed,Protect critical data using immutable backups
+,,Optimizing,Data classification is leveraged to validate data retention and backup objectives are met
+IAM ,Segregation,Initial,Mandated use of approved cloud environments/accounts
+,,,Isolated functional area (e.g. Dev/Staging/Prod) used where possible and different projects for isolation to reduce blast radius
+,,Managed,Established enterprise resources permission segregation model in alignment with CSP's best practices
+,,,Level of separation necessary separation has been determined
+,,,The segregation model should have taken enterprise security variation into account (e.g. departments or LOBs)
+,,Defined,Updated the enterprise IaC Templates with the segregation model
+,,Quantitatively Managed,Segregation model aligned to multi cloud environment
+,,,Logical separation maintained consistently across CSP's but the technical implementation can be different
+,,,Leveraged automation to periodically identify the discrepancy to the segregation model
+,,Optimizing,Configuration guardrails for configurations are updated to include backup configurations
+,Identify Management,Initial,Accounts are possibly created manually on an as-needed basis
+,,,Adopted the use of MFA or passwordless authentication at minimum for all privileged users
+,,Managed,"Consolidated enterprise identities into a single system allowing single sign-on, either federate on-premise system or cloud-based identity-management system"
+,,,Usage of the single authentication system spans to all cloud-based data and control planes
+,,,Usage of user template for consistent provisioning and deprovisioning of accounts and implement account security policies
+,,Defined ,"Centralized access request, provision and deprovisioning workflow us automated with proper approval and visibility built in"
+,,,3rd party and client-identity strategy have been established for access to the cloud environment and whether integration of identify directory is necessary
+,,Quantitatively Managed,User-management practice aligned to multi cloud environment
+,,,Single directory system served across all leveraged cloud environments
+,,,Customers identities are consolidated on one directory and may be consolidated to the enterprise system with proper segregation
+,,,Scope of MFA/passwordless usage expanded to more general users
+,,Optimizing,Usage of weak authentication eliminated in the environment
+,Access Management,Initial,Roles established in the organization that have access requirements and mapped out access in relation to cloud environment
+,,,Required access permission applied for each role type to the best extent
+,,,Default permission configuration provided by the CSP leveraged
+,,,Leadership and organizational buy-ins secured to transform the traditional rigor in network perimeter management to management of access control
+,,Managed,Performed risk reduction actions on privileged identity
+,,,Elimination of unnecessary privileged access/accounts
+,,,Dedicated administrative accounts that are not used for other purposes
+,,,Role management is based on automated workflow and with proper approval and visibility built in
+,,,Validated enterprise security teams have visibility to review and evaluated access permissions for monitoring and incident response
+,,Defined,Just in time or temporary access management used for privileged access for as-needed privilege usage.
+,,,Adopted cloud services are individually reviewed and validated
+,,,Permission is granted based on least-privilege principle - refining the permission from the CSp's default role
+,,,"Expanded the dimensions of access control policies to incorporate telemetry data of endpoint, network, data, and application"
+,,,Enablement for zero-trust model
+,,Quantitatively Managed,Administrative-account access is limited to certain isolated endpoint assets that are dedicated for such use
+,,,Consistent approaches and workflow to multi cloud environment
+,,Optimizing,usage of attack simulations leveraged to identify the full extent of a breach situations and drive access reduction
+Security Governance,Cost Management,Initial,Costs are attributed ad hoc to business process
+,,,Best effort cost management on cloud resources
+,,Managed,Costs management principles generally agreed by all lines of business
+,,,Clear financial alignment between resources and ownership using resource tagging to help with cost attribution.
+,,Defined,Cost Management policy established
+,,,Cost planning effort in place
+,,,Initial budget deviation reporting centralized
+,,Quantitatively Managed,Education of cost Management in place
+,,,Subscription strategy aligned to utilization and purchasing model
+,,,Reporting and alerting in place on deviation and under utilization for each line of business
+,,,Remediation driven based on reporting
+,,Optimizing,Business goals aligned with planned budget
+,,,Architecture patterns adjusted to align with subscription model
+,,,Budget activity managed and forecasted to align with business goals
+,Cloud Governance committee,Initial,An alliance of responsible executives is formed from multiple departments to delegate the cloud related decisions
+,,,Alliance meets on a regular basis
+,,,Identification of cross-functional stakeholders has started
+,,Managed,Stakeholders and sponsors from cross-function areas have been identified
+,,,Meetings are help on a regular basis with all stakeholders
+,,,Charter of the committee is formulated
+,,Defined,Area of interest and focus for each team related to cloud governance is identified
+,,,Sponsors have identified the delegate to support the continuous operations
+,,,Operating rhythm of the committee is identified
+,,,Key Metrics to evaluate performance established
+,,Quantitatively Managed,"Decision authority, execution and process to transition to enforcement of the committee has been formalized"
+,,,Continuous process in place to maintain a risk register and a pipeline of topics for committee to work on
+,,Optimizing,Continuous assessment of committee membership span in the organization
+,,,Performance indicators are evaluated and feedback from leadership is accepted to adjust focus of committee
+,Security Policy,Initial,Security policy in place to address security needs of the organization but may not directly address the cloud environment
+,,Managed,Key objectives of the controls for cloud have been defined and mapped to the detailed technical guardrails which implement the controls
+,,,Communication plan drafted with emphasis on incremental nature of the cloud security policy
+,,,Business appetite for risk identified for policy drafting
+,,Defined,Cloud Security policy communicated to cloud-related personnel and third-party providers
+,,,Recurring policy review process established 
+,,,Industry best practices aligned to the adopted policy
+,,,Policy enforced via automated means through guardrails in the environment
+,,Quantitatively Managed,Enforcement methods and processes refined based on feedback and metrics
+,,,Established exception management process in place
+,,Optimizing,"Continuous adjustment of policy in alignment to industry best practice changes, compliance, and also service adoption changes in cloud environment"
+Security Assurance,Posture Validation,Initial,"Relevant decision makers, risk owners and executive accountable for business processes or objectives that are cloud dependent have been identified"
+,,,Baseline security posture report from the service providers has been reviewed
+,,Managed,Organization use cases of the cloud have been analyzed and the current cloud security posture has been established
+,,,The appropriate benchmark standards for measuring the organization cloud security posture has been identified
+,,,Top findings have been remediated based on the baseline security posture report from the service providers
+,,Defined,Controls are cross-mapped and benchmarked against different frameworks based on requirements
+,,,Internal stakeholders for each area of posture issues are identified and a consensus reached to remediate issues in a given timeline
+,,Quantitatively Managed,Automation is in place to measure CSP-related control for design and operational effectiveness and reported the results back to the key stakeholders
+,,,Key metrics are published on the overall performance of posture validation effort
+,,Optimizing,Tools such as GRC or CASB are adopted to streamline and automate the workstreams of day-to-day task
+,Regulatory Compliance,Initial,"Information gathered on the workload to be put in the cloud - type of data records involved, nature of the workload, and geographical locations of the cloud service are probably the most crucial information to collect"
+,,,The relevant regulatory has been identified and requirements with regard to using cloud service providers for hosting workload
+,,,Leverage CSP provided regulatory compliance information for evaluation
+,,Managed,"Based on the cloud services leveraged, assess the compliance of the cloud based workload end to end, including all involved service providers - taking into consideration the shared responsibility model"
+,,Defined,Performed a self assessment or audit with documentation on the compliance requirement for validation of compliance
+,,,"Recurring review of legal compliance requirements based on the cloud setup changes, possibly due to new service adoption or new workload architecture"
+,,Quantitatively Managed,Automation of the process for the compliance requirements that require recurring monitoring in the cloud environment is in place
+,,,Reports generated are regularly reviewed to validate compliance
+,,Optimizing,Compliance-validation process has been largely rolled into automated assurance process with compliance data recorded
+,Security Testing,Initial,Vulnerability assessment is performed using traditional remote-scanning ability to detect known vulnerabilities
+,,,Pen testing exercises are performed with basic threat assumptions such as external attacker attempting to breach the cloud environment
+,,,Usage of CSP security validation services to generate report of commonly known misconfiguration and vulnerabilities
+,,Managed,Cloud Native or 3rd party assessment tools are leveraged to focus on the configuration validation area to detect misconfigurations
+,,,Pen Tests are conducted on regular intervals
+,,,Consolidated the vulnerability views across on-prem and cloud for holistic view
+,,Defined ,Pen testing is based on specific compromised scenario that would reflect real world attacks - the scenario could come from threat intel or previous incidents in the industry or within the organization
+,,,Findings from the testing process are remediated according to certain internal timelines and both validated for remediates and engineering to avoid future recurrence
+,,Quantitatively Managed,Threat model of the cloud environment and common-access use cases are developed for pen or purple testing scenarios
+,,Optimizing ,Regular attack simulations are conducted to gain better understanding of the blast radius and also validate the effectiveness in control technology and processes.
+Application and Workload Protection,Security Protection Services,Initial,Cloud Native security components are leveraged by application in an ad-hoc manner of follow an on-prem security standards
+,,Managed,"Common cloud-based security protection services are leveraged on an ad-hoc basis to protect the cloud application such as cloud DNS anti-DDoS protection services, content delivery network, api gateways and/or a cloud workload protection platform"
+,,Defined,Enterprise standard for protection profile for each type of applications has been established. The standard contains the baseline configuration for the protection services for adoption
+,,Quantitatively Managed,Enterprise protection profile extended to assist with the fine tuning of protecting profiles - allowing the application to further secure the environment beyond the basic protection
+,,,Guidelines provided for the more complex rule based system such as WAF
+,,Optimizing,The effectiveness of the protective set of services and related configuration via threat modeling and red team exercises are validated and fined tuned
+,Cloud Workload Assessment,Initial,Pentest or other end-of-development-cycle testing are performed with most critical workloads
+,,,Other forms of testing may be performed on an ad-hoc basis
+,,Managed,SAST and DAST are leveraged during development life cycle
+,,,Red Team exercises are performed on applications
+,,Defined,"Testing performed across the various development steps of the CI/CD pipeline including check-ins build, release, and deployment phases"
+,,Quantitatively Managed,Teh testing pipeline applies to all applications and related resources running in the cloud environment
+,,,Threat modeling is performed for apps on a best effort basis and the results are leveraged to fine tune the red team exercises
+,,Optimizing,Threat models for all cloud-based applications is performed - the scope includes app logic as well as environment aspects
+,Cloud Application Practices,initial,DevSecOps Practices and cloud-development resources/services are used in an dad-hoc manner for managing cloud-based applications
+,,,Development team is involved in the cloud security committee and major change management
+,,Managed,"Department or application projects leverage cloud-native services to manage application secrets, source code and build processes - enterprise preferences towards PaaS-based security services"
+,,,CI/CD pipeline is secured according to best practices and adopted enterprise-wide
+,,,Updated enterprise-coding standards to reflect in the cloud native environment
+,,Defined,"APplication design and architecture patterns are established for cloud native solutions - patterns are aligned with the enterprise's cloud architecture with respect to availability, scalability, and security"
+,,,Security functions are embedded within development teams
+,,,enterprise-established standard pipelines for application replatforming towards cloud-native solutions
+,,Quantitatively Managed,Approved design and architecture patterns are distributed as code for adoption by teams enterprise wide
+,,,Development teams are confident in automated development and deployment capability and are able to adopt a high rate of regular changed to support software lifecycles
+,,Optimizing,"Development teams, support by cloud native tooling and collaboration are able to continuously improve applications not only at coding of modules level but able to adopt new cloud capabilities and new architecture within a very short period of time and in quick succession"
+Detection and Response,Security Intelligence,Initial,Subscription to in intelligence feed is available to organization - can be industry aligned
+,,Managed,CLoud Environment setup is analyzed and generates original detection logic for the cloud environment that is in use
+,,,Industry intelligence feed is refined to attain better detection
+,,Defined,Recurring generation of new detection logic through the learnings from incidents or threat hunting activities in the environment
+,,,Pivot the detection logic from known bad IP and binary running in the environment to behavior and activities that are suspicious
+,,Quantitatively Managed,Threat modeling and purple team exercises are performed to determine the abuse cases for monitoring
+,,,Continuous evaluation of additional threat analysis outputs are integrated with detection and monitoring tools
+,,Optimizing,Metrics have been integrated into the security intelligence evaluation process
+,Analysis and Monitoring,Initial,Cloud Native platform monitoring capability is turned on
+,,,CSP out-of-the-box monitoring capabilities are used
+,,Managed,Cloud Platform logs are collected for analysis
+,,,Integration with self-generated intelligence
+,,,Prioritized of event and log types that have a higher security values of monitoring are in place
+,,Defined,Events are mostly normalized across different sources to allow effective analysis across resources in the environment
+,,,Cloud platform logs and enterprise platform logs have been consolidated into SIEM
+,,,Network and flow/traffic based logs are collected and analyzed to provide added context
+,,Quantitatively Managed,Alerts are maintained at expected false positive rations through detection logic optimization to avoid alert fatigue
+,,Optimizing,"Logs of multi cloud platforms are either consolidated into a single technology or first analyzed in cloud native environment, then the relevant alerts and logs are consolidated together for analysis"
+,Response,Initial,A start has been made documenting playbooks for common tasks for response
+,,,Cloud native platform security monitoring technology is utilized for responding to critical detection
+,,Managed,Containment and eradication workflow in cloud environment is established
+,,,playbooks have been defined to support these operations
+,,Defined,Tabletop walkthrough/exercise is used to help refine the incident response playbooks
+,,,The most frequent playbooks are automated
+,,,The focus is on automating passive response task to gain confidence
+,,Quantitatively Managed,Purple team exercises are conducted to validate detection and response capabilities
+,,Optimizing,Most playbooks are automated
+,,,A recurring process is in place to review playbooks effectiveness and efficiency
+,,,Metrics KPI are used to refine the playbooks and processed
+,Log Management,Initial,Logs may be sent to on-prem log collection for analysis
+,,,"Log storage plans have been defined with consideration for storage costs, ingestion, and transfer"
+,,Managed,Logging standards have been established for cloud native components and configuration is integrated into automatic resource provisioning
+,,,Cloud Platform and core set of high -security value resources logs have been consolidated in cloud
+,,Defined,Collection and retention of logs have been evaluated and optimized striking a balance between security and efficiency/cost
+,,,Logs are parses and metric reports are generated
+,,,Logging levels are clearly defined
+,,,Additional logs from the environment are being collected centrally
+,,Quantitatively Managed,Enterprise logs have been consolidated
+,,,Event Logging requirements and config are aligned enterprise-wide
+,,,Log sources are monitored for errors and remediation process is in place
+,,Optimizing,Multicloud log consolidation and configuration normalization is in place
+Infrastructure Architecture,Config Management,Initial,CSP best practices are being followed where possible
+,,Managed,Defined enterprise guardrails in place for adopted cloud services
+,,,Ad-hoc validation of config against guardrail templates
+,,Defined,Automated config guardrail validation in place to validate resources conformance to configuration standards
+,,,Alerts and notification generated on non-compliance configuration
+,,Quantitatively Managed,Periodic review of config based on lessons learned from incidents
+,,,Automated config validation to prevent bad configuration from being provisioned and remediation of some key violations
+,,Optimizing,Automated config validation remediates all non-compliance configuration
+,Image Management,Initial,Usage of images manually built from public marketplace repository
+,,Managed,Enterprise standard has been developed for images taking into considerations of security requirements
+,,,VM and container images are restricted to approved ones
+,,Defined,Golden Images are centrally Managed
+,,,"VM and container builds are performed through automated code based on building process with security patches, configuration, and tooling bundled in"
+,,Quantitatively Managed,"Automated process extended to manage full lifecycle of image including evergreen running images, across all computing environments (multi cloud, on-prem) "
+,,Optimizing,Image Management practices extended to multi cloud environments
+,Cloud Security Architecture,Initial,Landing zones best practices are adopted where possible
+,,Managed,Benchmarked against the well architected framework/architecture framework
+,,,Roadmap created to adopt the necessary steps
+,,Defined,Path toward immutable architecture and Zero Trust architecture has been defined
+,,,Target patterns and roadmap for implementation
+,,,Incorporate defensive architecture decision based on threat intel that have been laid out
+,,Quantitatively Managed,Most components of well architected framework have been adopted for automation of enforcement and provisioning
+,,,Learnings from security monitoring and response in architecture advancements have been adopted
+,,Optimizing,Periodic refinement of target with regards to alignment with updated of well architected framework and pattern updated in alignment with organizational demands
+,Resource Management,Initial,Defined tagging scheme and inventory system in place taking cost management in consideration
+,,,Resources maybe managed over ad-hoc and manual methods
+,,Managed ,Automated resources management using code to ensure resources are consistently created and managed
+,,,Enforcement of enterprise tagging scheme
+,,Defined,Mostly automated resource provisioning and management
+,,,Automated mechanism in place to apply the guardrail
+,,,CSP/3rd party asset inventory system used to map out assets in the cloud
+,,Quantitatively Managed,Resource visibility and management are consolidated in multi cloud environment preferably using the same tool across all CSP
+,,Optimizing ,Continuous assignment of security guardrail with resource management
+,Network Control,Initial,Geolocation and network segmentation requirements have been determined - possible usage of traditional enterprise network security appliances for initial ease of management
+,,Managed,Option for reliable and high performing connectivity with on-prem network has been determined
+,,,IP schemas for VNet and VPC determined
+,,,"Defined usage of cloud network components, such as VNet/VPC, Internet gateways, subnets, VPC/Private endpoints and other ACLs for the protection of posture"
+,,Defined,IP address management strategy has been determined to avoid resource dangling
+,,,Prioritized usage of native defense components over 3rd party appliances
+,,,Centralized management of network firewall rules
+,,Quantitatively Managed,SASE is leveraged to enforce trusted access to the cloud environment
+,,,Management of Egress traffic from all cloud resources on top of inbound controls
+,,Optimizing,Automated usage of catalog multi cloud and SaaS services to enforce secure connectivity for the resource access
+Workforce Readiness ,Skill Readiness,Initial,Training effort is focused on pioneer group of core uses and members who are working directly on and responsible for setting up the cloud environment
+,,Managed,Job functions have been mapped to skill requirements to align with training
+,,,Developed security-specific training and certification paths for main groups of enterprise users
+,,,"Key roles consisting of developers infrastructure, engineering, security, management, and operational teams"
+,,Defined,"On the job training has been established, hands on and/or job shadow training in addition to classroom and certification programs"
+,,Quantitatively Managed,Cloud Security training made available to general IT team members to expand talent pool
+,,,Validation conducted with teams via survey on the relevance of training and job functions
+,,,Training scope refined to align with job requirements
+,,Optimizing,Gamified the certification and training effort to attract a higher level of interest
+,Organizational Alignment,Initial ,Cloud transformation supported by each member of the team on an as needed basis
+,,,"As security-related requirements come up, the best suited departments, teams, or individuals address the needs. Some departments may be more aligned to cloud related work than others"
+,,Managed,Mapped and documented the required environment
+,,,The requirements are mapped to teams or departments to support in RACI charts
+,,,"Initially focused on the engineering aspect of cloud security, this established the accountability and collaboration across the organization"
+,,Defined,Reviewed organization reporting structure and/or virtual team setup to align with the cloud support functions
+,,,The organization assignment to support the DevSecOps movement has been determined
+,,,Established the RACI for the cloud operations as it related to security
+,,Quantitatively Managed,"Established the effectiveness of each aligned functional area by reviewing funding, resources, and operational metrics. this is an enabler to adjust supporting model for cloud"
+,,Optimizing,"Business, audit, and external review factors are taken into adjusting the organizations alignment from RACI, resources and strategic angles"
