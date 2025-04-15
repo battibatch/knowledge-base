@@ -27,7 +27,9 @@ This is a bad idea, but given the position, it feels like it is required. So let
     - Harpoon - OSINT automation
     - GOSINT
 6. Vulnerability Management Systems (VMS)
-    - 
+    - OpenVAS
+    - OpenSCAP
+    - Sounds like Wazuh may also do this
 7. Network Traffic Analysis (NTA)
 8. User and entity behavior analytics (UEBA)
 
