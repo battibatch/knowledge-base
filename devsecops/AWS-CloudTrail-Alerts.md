@@ -66,14 +66,3 @@ These are harder to set up alerts for because you do not want ot trigger alerts 
     * Check for Internet Access (0.0.0.0/0)
 * `RevokeSecurityGroup{Ingress,Egress}`
 * `UpdateSecurityGroupRuleDescription{Ingress,Egress}`
-
-
-
-
-
-`eventName`:
-
-* CreateUser
-* CreateRole
-
-* UpdateTrail
