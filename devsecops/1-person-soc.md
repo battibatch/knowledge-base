@@ -17,7 +17,7 @@ This is a bad idea, but given the position, it feels like it is required. So let
         - Snort, Zeek, Suricata
     - Host based:
         - OSSEC
-3. Endpoint Detection and Response (EDR) 
+3. Endpoint Detection and Response (EDR)
     - Wazuh
 4. Security Orchestration, Automation, and Response (SOAR; can I do this w/ Jenkins?)
     - n8n
