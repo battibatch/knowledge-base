@@ -5,6 +5,7 @@ This is a bad idea, but given the position, it feels like it is required. So let
 ## Requirements
 - Basically a zero budget exercise. There will be money for compute, but that is basically it.
 - Single pane of glass view into as many systems/tools as possible.
+    - This also falls apart immediately, given there are so many tools
 
 ## Required Systems
 
