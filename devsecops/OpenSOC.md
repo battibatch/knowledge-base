@@ -1,6 +1,6 @@
-# One Person SOC
+# OpenSOC
 
-This is a bad idea, but given the position, it feels like it is required. So lets work through it.
+This used to be named "1 person SOC". Obviously, that is a bad idea. Lets assume that 1 person will create the SOC, and these are all the requirements to do that. All tools selected will be open source to help maintain costs. 
 
 ## Requirements
 - Basically a zero budget exercise. There will be money for compute, but that is basically it.
