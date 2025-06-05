@@ -39,7 +39,18 @@ There are opposing principles though
 
 ## Chapter 03: All Happy Companies Are Different
 
-What valuable company is nobody building? 
+What valuable company is nobody building?
+
+Even big businesses can be bad - airlines make $0.37 per passenger trip.
+
+goal is to become a monopoly - so good at what you do, no other company can compete.
+
+If you want to create and capture lasting value, don't build an undifferentiated commodity business
+
+"In business, money is either an important thing, or it is everything"
+
+In a static world, monopolies are bad; but we live in a dynamic world
+* 
 
 ## Chapter 04: The Ideology of Competition
 
