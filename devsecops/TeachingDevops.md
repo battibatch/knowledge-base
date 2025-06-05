@@ -13,7 +13,7 @@
     2. Standard CI Pipeline Stages
         1. Build
         2. Test
-        3. Scan 
+        3. Scan
         4. Upload
 3. Continuous Deployment
     1. Continuous Deployment Versus Continuous Delivery
