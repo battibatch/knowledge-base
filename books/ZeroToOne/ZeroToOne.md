@@ -50,7 +50,8 @@ If you want to create and capture lasting value, don't build an undifferentiated
 "In business, money is either an important thing, or it is everything"
 
 In a static world, monopolies are bad; but we live in a dynamic world
-* 
+* creative monopolist give customers more choices by adding new categories
+
 
 ## Chapter 04: The Ideology of Competition
 
