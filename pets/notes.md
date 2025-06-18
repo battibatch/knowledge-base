@@ -19,3 +19,12 @@ A mathematical method used in data analysis that introduces noise into query res
 ## Confidential Computing
 
 ## Homomorophic Encryption
+Enables computations on encrypted data without decrypting it
+
+## Federated Learning
+
+## Zero Knowledge Proofs
+
+## Data Minimization
+
+## Secure Multi-Party Computations
