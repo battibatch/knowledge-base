@@ -18,7 +18,7 @@ Guillebeau, Chris
 
 ## Chapter 07: Magical Thinking of Time Management
 
-## Chapter 08: What is engou
+## Chapter 08: What is enough?
 
 ## Chapter 09: Do Things Poorly
 
