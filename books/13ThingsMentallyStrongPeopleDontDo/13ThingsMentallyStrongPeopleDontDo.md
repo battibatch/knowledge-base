@@ -71,7 +71,14 @@ Exchange self-pity for gratitude
 
 
 
-## Chapter 02: 
+## Chapter 02:  They Don't Give Away Their Power
+
+that is, give others the power to control how you think, feel, behave
+
+Signs you have
+* 
+
+
 
 ## Chapter 03: 
 
