@@ -106,7 +106,56 @@ Notes
 * Forgivness reduces your stress, increases you tolerance to pain, and helps you live longer
 
 
-## Chapter 03: 
+## Chapter 03: They Don't Shy Away from Change
+
+Things we do to avoid change
+* Justify the thing is not that bad
+* experience a anxiety about changes to your routine
+* even when in a bad situation, think a change will be worse
+* Struggle to stick with changes
+* difficult to adapt to 3rd party changes
+* put off doing change, but think about it often
+* worry change will not last
+* change is too scary
+* change it too hard
+* make excuses for why no change
+* Unable to think of last time you tried to do something difficult
+
+Types of change
+* All or nothing
+* Habit change
+* Try something new
+* Behavioral 
+* Emotional
+* COgnitive 
+
+5 stages of change
+* Pre-contemplation
+* Contemplation
+* Preparation
+* Action
+* Maintenance
+
+The Problem with not changing
+* gets you stuck in a rut
+* won't learn new things
+* life may not get better
+* wont challenge yourself
+* People will outgrow you
+* longer you wait, harder it gets
+
+Pay attention to emotions that influence change
+Manage negative thoughts
+Create plan for change
+* goal and actions
+* accountability
+* anticipate and remove obstacles
+* monitor progress
+
+Think like the person you want to become
+* self actualization from atomic habits(?)
+    * "I am the kind of guy who (lives the change)"
+
 
 ## Chapter 04: 
 
