@@ -75,9 +75,35 @@ Exchange self-pity for gratitude
 
 that is, give others the power to control how you think, feel, behave
 
-Signs you have
-* 
+Signs you have given power away
+* you are offended by any criticism or negative feedback, regardless of the sources
+* Other people have the ability to make you feel so angry you say/do things you regret
+* You change your goals based on what other people tell you to do with your life
+* Your day depends on other peoples behavior
+* you can be guilted into doing things
+* Your self worth depends on some level of how you are perceived
+* you complain about people and circumstances you don't like
+* You try to avoid uncomfortable emotions
+* you have difficulty setting boundaries
+* You hold grudges
 
+Problems of giving away your power
+* depend on others to regulate your feelings
+* let others define your self worth
+* avoid addressing real problem
+* become a victim of circumstance
+* highly sensitive to criticism
+* lose sight of your goals
+
+Reclaim your power
+* ID people who you have given your power away to 
+* reframe languages
+* Think before acting
+* Evaluate feedback critically
+* Recognize your choices
+
+Notes
+* Forgivness reduces your stress, increases you tolerance to pain, and helps you live longer
 
 
 ## Chapter 03: 
