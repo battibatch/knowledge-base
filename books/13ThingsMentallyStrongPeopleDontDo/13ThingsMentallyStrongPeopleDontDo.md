@@ -156,8 +156,19 @@ Think like the person you want to become
 * self actualization from atomic habits(?)
     * "I am the kind of guy who (lives the change)"
 
+## Chapter 04: They Don't Focus on Things They Can't Control
 
-## Chapter 04: 
+Signs
+* Spend time/energy trying to prevent anything bad
+* invest energy in wishing people would change
+* You think you can single-handedly fix everything
+* believe the outcome is based on how much effort you exert
+* assume good luck has nothing to do with success
+* control freak
+* struggle to delegate
+* struggle to let go of things obviously not in your control
+* 
+
 
 ## Chapter 05: 
 
