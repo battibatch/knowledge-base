@@ -256,8 +256,20 @@ Part of the journey
 
 ## Chapter 11: They Don't Give Fear Alone Time
 
+being alone != being lonely
+
+"journalling or meditating feels like a waste of time" 
+* I need to do better at these
+
+Lots of benefits
+* better productivity and creativity
+
+reflect on goals
+
 
 ## Chapter 12: They Don't Feel the World Owes Them Anything
+
+
 
 ## Chapter 13: They Don't Expect Immediate Results
 
