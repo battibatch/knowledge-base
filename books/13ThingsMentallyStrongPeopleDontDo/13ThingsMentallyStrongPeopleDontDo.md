@@ -206,6 +206,15 @@ You cannot be extraordinary without taking calculated risks
 
 ## Chapter 07: They Don't Dwell on the Past
 
+Dwelling often caused by fear, guilt, regrets
+Prevents you from living in the present
+
+If needed, give the past space to time box it, and the set goals for the future
+
+Again, Facts over emotions
+Practice forgiveness
+
+
 ## Chapter 08: they Don't Make the Same Mistakes Over and Over
 
 ## Chapter 09: They Don't Resent Other People's Success
