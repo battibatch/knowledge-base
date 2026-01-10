@@ -184,6 +184,14 @@ When appropriate, try to influence things you cannot change
 
 ## Chapter 05: They Don't Worry About Pleasing Everyone
 
+It is impossible
+
+Clarify your values, and focus on those
+
+Be assertive, and speak up. 
+* use "I" statements: I am frustrated you are late
+
+
 ## Chapter 06: They Don't Fear Taking Calculated Risks
 
 ## Chapter 07: They Don't Dwell on the Past
