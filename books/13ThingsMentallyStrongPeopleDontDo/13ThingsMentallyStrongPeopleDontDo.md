@@ -217,6 +217,19 @@ Practice forgiveness
 
 ## Chapter 08: they Don't Make the Same Mistakes Over and Over
 
+Study mistakes and plan on how to avoid next time
+* what went wrong? 
+* What could improve? 
+* Warning signs? 
+
+Practice self control
+* tolerate discomfort
+* positive selft talk
+* Keep goals in mind
+* impose restrictions
+
+
+
 ## Chapter 09: They Don't Resent Other People's Success
 
 ## Chapter 10: They Don't Give Up After the First Failure
