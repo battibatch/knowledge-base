@@ -194,6 +194,16 @@ Be assertive, and speak up.
 
 ## Chapter 06: They Don't Fear Taking Calculated Risks
 
+Do not let emotion prevail over logic
+* Calculate the risk, even though we are bad at it
+* Cost vs Benefit
+* will it help you achieve your goals
+* Alternatives? 
+* will it matter in 5 years
+
+You cannot be extraordinary without taking calculated risks
+
+
 ## Chapter 07: They Don't Dwell on the Past
 
 ## Chapter 08: they Don't Make the Same Mistakes Over and Over
