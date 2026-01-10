@@ -169,17 +169,34 @@ Signs
 * struggle to let go of things obviously not in your control
 * 
 
+**NOTE:** At this point I realized I was spending too much time on notes that were not adding value. 
 
-## Chapter 05: 
+Focus on Locus of Control
 
-## Chapter 06: 
+Develop Balance
+* you can host a good party, but you cannot control if people have fun
 
-## Chapter 07: 
+When appropriate, try to influence things you cannot change
+* listen first
+* share opinion, but only once
+* Point out the positive
 
-## Chapter 08: 
 
-## Chapter 09: 
+## Chapter 05: They Don't Worry About Pleasing Everyone
 
-## Chapter 10: 
+## Chapter 06: They Don't Fear Taking Calculated Risks
 
+## Chapter 07: They Don't Dwell on the Past
+
+## Chapter 08: they Don't Make the Same Mistakes Over and Over
+
+## Chapter 09: They Don't Resent Other People's Success
+
+## Chapter 10: They Don't Give Up After the First Failure
+
+## Chapter 11: They Don't Give Fear Alone Time
+
+## Chapter 12: They Don't Feel the World Owes Them Anything
+
+## Chapter 13: They Don't Expect Immediate Results
 
