@@ -245,7 +245,17 @@ Celebrate others accomplishments
 
 ## Chapter 10: They Don't Give Up After the First Failure
 
+You are never good at something you do for the first time
+* deliberate practice
+* Grit is better predictor of success than IQ
+* avoid learned helplessness
+
+If you never quit, you will never fail
+Part of the journey
+
+
 ## Chapter 11: They Don't Give Fear Alone Time
+
 
 ## Chapter 12: They Don't Feel the World Owes Them Anything
 
