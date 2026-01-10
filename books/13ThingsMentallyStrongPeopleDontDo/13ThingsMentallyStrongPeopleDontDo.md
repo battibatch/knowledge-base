@@ -224,13 +224,24 @@ Study mistakes and plan on how to avoid next time
 
 Practice self control
 * tolerate discomfort
-* positive selft talk
+* positive self talk
 * Keep goals in mind
 * impose restrictions
 
 
-
 ## Chapter 09: They Don't Resent Other People's Success
+
+Very possible your view is wrong anyway
+
+Focus on your path to success, values and goals
+* define you version of success 
+* Avoid comparisons
+* stop emphasizing your weaknesses
+
+Focus on Cooperation rather than competition
+
+Celebrate others accomplishments
+
 
 ## Chapter 10: They Don't Give Up After the First Failure
 
