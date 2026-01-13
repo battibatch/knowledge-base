@@ -277,3 +277,9 @@ Practice Humility
 
 ## Chapter 13: They Don't Expect Immediate Results
 
+Practice patience
+
+Create realistic expectations
+Progress is not always obvious
+deal with frustration in a healthy way 
+
