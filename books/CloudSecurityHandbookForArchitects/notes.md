@@ -5,6 +5,21 @@ March 2023
 
 ## Chapter 01: Evolution of Cloud Computing and Impact on Security
 
+History
+
+NIST defines cloud as 
+* On-demand
+* Broad network access
+* Resource Pooling
+* Quick elasticity
+* Metered Service
+
+Cloud Types
+* Public - AWS
+* Private exclusive data center owned by a business
+* Hybrid
+* Multi-cloud
+
 
 ## Chapter 02: Understanding the Core Principles of Cloud Security and its Importance
 
