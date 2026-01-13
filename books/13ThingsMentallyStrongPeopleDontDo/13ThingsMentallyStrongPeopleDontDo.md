@@ -269,6 +269,10 @@ reflect on goals
 
 ## Chapter 12: They Don't Feel the World Owes Them Anything
 
+avoid self entitlement, and develop self awareness 
+Focus on giving, not taking
+Acknowledge flaws/weaknesses
+Practice Humility
 
 
 ## Chapter 13: They Don't Expect Immediate Results
