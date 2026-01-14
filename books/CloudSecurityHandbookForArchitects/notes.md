@@ -20,8 +20,43 @@ Cloud Types
 * Hybrid
 * Multi-cloud
 
+Service Model
+* SaaS
+* PaaS 
+* IaaS
+
+Justifications
+* agility
+* selections
+* Collaboration
+* low cost
+
+Analyzing Risk and reduce risk w/
+* Certifications ans standards
+* data protections
+* Access control
+* BC and DR
+* Encryption
+* Audits and Alerts
+* File Sharing
+
+Privacy Concerns
+* data privacy
+* data loss
+* Geographical data storage
+* multi tenant 
+* transparency problems
+* Hypervisors
+* Admin problems
+
+Shadow IT is a real problem
+
+Shared Responsibility is important
+
 
 ## Chapter 02: Understanding the Core Principles of Cloud Security and its Importance
+
+
 
 
 ## Chapter 03: Cloud landscape Assessment and Choosing a Solution for your Enterprise
