@@ -92,6 +92,21 @@ Procedures for classifying data
 6. Describe the declassification procedures
 7. Develop a program to educate the company
 
+Use IAM
+Certificates
+passwords/phrases
+MFA
+
+After Identity, is access control based in ID
+
+Best practices
+* Protect endpoints
+* IAM
+* create and enforce Guidelines
+* Secure data at rest and in motion
+* Intrusion detection and prevention
+* audits and pen testing
+
 
 ## Chapter 03: Cloud landscape Assessment and Choosing a Solution for your Enterprise
 
