@@ -56,7 +56,41 @@ Shared Responsibility is important
 
 ## Chapter 02: Understanding the Core Principles of Cloud Security and its Importance
 
+Least privilege
+Defense in depth
+Assess risk w/ asset focused strategy
+Segregation of duties
+Fail-safe
+* default deny in event of failure
+Economy of mechanism - Keep it simple
+Complete risk mediation, not matter state (init, shutdown, etc.) 
+Open Design
+* suggesting that releasing cloud securiy designs are better if opened; but this is only true if they are well reviewed
+Least common mechanism
+* the need for many users share a minimum number os secure measures
+Weakest link
+Making use of current landscape
+* separate resources to avoid sprawl in a breach
+Architectural considerations will be influenced by: 
+* regulatory requirements
+* compliance
+* security management
+Controls
+* access controls
+* service levels
 
+Information classification
+* Public, Sensitive, Private, Confidential
+* Criteria: Value, age, useful life, personal association
+
+Procedures for classifying data
+1. determine the admin and custodian of data
+2. outline standards for for categorizing
+3, Sort info according to the owner
+4. Specify any exceptions
+5. Specify the checks used for each classification level
+6. Describe the declassification procedures
+7. Develop a program to educate the company
 
 
 ## Chapter 03: Cloud landscape Assessment and Choosing a Solution for your Enterprise
