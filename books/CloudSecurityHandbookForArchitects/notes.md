@@ -110,6 +110,52 @@ Best practices
 
 ## Chapter 03: Cloud landscape Assessment and Choosing a Solution for your Enterprise
 
+define org cloud security roles and responsibilities
+understand shared service model
+Understand team structure, roles and responsibilities
+Manage the risk in the cloud
+* Third party/vendor risk is big right now  
+* Use a framework to manage risk
+* review SLAs
+* Monitor and manage
+
+An approach to a Cloud Security Assessment
+* goal
+    * determine vulnerabilities
+    * check network for indicators of compromise
+    * describe methods for to reduce exposure
+* 7 areas of assessment focus
+    * Interviews and documentation review
+    * IAM
+    * segmentation and firewalls
+    * Incident management
+    * Cloud Storage
+    * security settings of advanced service options
+    * Workload security
+* 4 elements of assessment for each area
+    * Doc review and interviews
+    * Automated and manual testing
+    * Remediation suggestions
+    * presentation
+* Things to keep in mind during an assessment
+    * sketch out current surroundings
+    * assess your present environment
+    * Visualize potential environment
+    * Effectiveness of the assessment
+    * price point
+* Assessment reporting
+    * human and machine readable
+    * Ideally continuous assessment reporting
+    * CVSS 
+    * rating should match the orgs rating 
+
+Details on how to choose a cloud provider
+
+
+Decide on external, internal or both assessments
+Pen testing
+
+
 
 ## Chapter 04: Cloud Architecture and Implementation Frameworks
 
