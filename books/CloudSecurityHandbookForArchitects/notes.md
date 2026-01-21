@@ -156,8 +156,32 @@ Decide on external, internal or both assessments
 Pen testing
 
 
-
 ## Chapter 04: Cloud Architecture and Implementation Frameworks
+
+Cloud Security Building blocks
+* Layer by layer (Defense in depth) 
+* Centralized management of components
+* redundancy in case of failures
+* design for elasticity/scalability
+* Pick the best deployment strategy
+* Create alert and notification plan
+* Centralization, standardization, Automation
+
+Pillars of the cloud security framework
+* System design
+* Operational Excellence (observability, automation, scalability, devops maturity)
+* Security compliance and privacy
+* Reputation
+* cost management
+* Performance Management
+
+5 phases of adoption
+1. foundational layer
+2. the perimeter layer
+3. Dat protection layer
+4. visibility layer
+5. cloud solution layer
+
 
 
 ## Chapter 05: Native Cloud Security Controls and Building Blocks
