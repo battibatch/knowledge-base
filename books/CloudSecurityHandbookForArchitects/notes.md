@@ -182,9 +182,56 @@ Pillars of the cloud security framework
 4. visibility layer
 5. cloud solution layer
 
+Cloud Security Principles
+* Identification
+* security COntrols
+* Security by design
+* Compliance
+* perimeter Security
+* Segmentation
+* IAM
+* Data encryption
+* Automation
+* Logging and monitoring
+* Visibility
+* Flexible design
+
+Design systems to be Autonomic
+* self healing
+* Self managing
+* self protection
+
+Evaluate the Cloud Security Maturity Model (CSMM) 
+
+Integrate Security as early as possible in the SDLC
+
+5 pillars of zero trust 
+* identity
+* devices
+* networks
+* applications
+* data 
+
+Approaches to cloud migration
+* Rehost (lift and shift) 
+* re-architecuture the application
+* re-platform (use cloud native)
+* Rebuild
+* Replace
+
+Safe by design
+use automation 
+SAST/DAST
+HTTPS for everything
+
+4 Cs model of native cloud security
+* Code, Container, Cluster, Cloud
+
+Run as non-root 
 
 
 ## Chapter 05: Native Cloud Security Controls and Building Blocks
+
 
 
 ## Chapter 06: Examine Regulatory Compliance and Adoption Path for Cloud
