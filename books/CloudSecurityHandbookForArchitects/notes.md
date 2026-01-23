@@ -232,6 +232,38 @@ Run as non-root
 
 ## Chapter 05: Native Cloud Security Controls and Building Blocks
 
+Most of this chapter is out data discussion of cloud specific services
+
+Asset management and protection
+Classification of data
+Resource tags 
+Encryption (at reast, in flight)
+Key management
+cryptographic eraser
+MFA
+
+Interactive application scanning test (IAST) 
+
+Specific networking building blocks
+* ALlow/deny lists
+* DMZ
+* VPC
+* Software defined networks
+* Proxies
+* NAT
+* network segmentation
+* Security groups
+* Bastion
+* VPN
+* Web app firewall
+* IDS and IPS
+* Egress traffic filtering
+
+Look at the logs 
+1. capture logs in 1 place
+2. examine logs 
+3. Correlate logs with data
+4. Enable alerts 
 
 
 ## Chapter 06: Examine Regulatory Compliance and Adoption Path for Cloud
