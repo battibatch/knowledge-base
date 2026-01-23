@@ -268,6 +268,40 @@ Look at the logs
 
 ## Chapter 06: Examine Regulatory Compliance and Adoption Path for Cloud
 
+Regulatory compliance is the discipline and process of ensuring that a company follows the laws enforced by governing bodies in their geography or the rules required by voluntarily adopted industry standards.
+
+HIPPA, PCI DSS, FERPA, GDPR
+
+CLoud Compliance
+* Cloud Security Alliance
+* FedRAMP
+* SOX
+* ISO 27001
+* NIST Cybersecurity framework
+* CIS COntrols
+
+Governance Risk and COmpliance (GRC)
+
+Programmatic approach to meet compliance
+1. Risk assessment
+2. Key Concepts
+3. Monitoring
+4. Reporting
+repeat for continuous improvement and risk assess new project/paradigm
+
+Do Continuous monitoring
+
+Have DR/BC plan
+
+Cloud Security Assessment Checklist
+1. POlicies and Procedures
+2. Access Controls
+3. Network
+4. Backup and data recovery
+5. Security patches and updates
+6. monitoring and logging
+7. Data encryption
+
 
 ## Chapter 07: Creating and Enforcing Effective Security Policies
 
