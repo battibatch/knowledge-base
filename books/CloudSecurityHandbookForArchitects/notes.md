@@ -305,6 +305,19 @@ Cloud Security Assessment Checklist
 
 ## Chapter 07: Creating and Enforcing Effective Security Policies
 
+Cloud Security Policy template
+* objective
+* scope
+* Information Category - type of info covered by this policy
+* Responsibility and ownership 
+* Use of cloud computing in a secure manner
+* Risk Analysis
+* Security measures
+* Recovering from an incident 
+* Awareness
+* Enforcement
+* Reference docs
+
 
 ## Chapter 08: Leveraging Cloud-based Security Solutions for SECaaS
 
