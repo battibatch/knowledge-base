@@ -321,6 +321,40 @@ Cloud Security Policy template
 
 ## Chapter 08: Leveraging Cloud-based Security Solutions for SECaaS
 
+SECaaS is using an external entity to handle and manage your security
+Risks
+* Not in direct control of security activities
+    * lead to inadequate visibility
+* data leaking is possible 
+* Vendor lock-in 
+
+
+Examples
+* DLP
+* BC/DR
+* Email security 
+* Antivirus
+* Cloud Access Security Brokers (CASB)
+* Auditing
+* Network security 
+* SIEM 
+* Web security
+* Vulnerability scanning
+* Encryption
+
+SECaaS Framework
+1. Risk assessment
+2. Discovery
+3. Integration
+4. MOnitoring
+repeat
+
+Best practices
+* Periodic assessment
+* Data guidelines
+* security guidelines
+* Alerting and reporting
+
 
 ## Chapter 09: Cloud Security Recommendations and Best Practices
 
