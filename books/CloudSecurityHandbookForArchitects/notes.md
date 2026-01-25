@@ -360,7 +360,3 @@ Best practices
 
 Nothing in this chapter not already covered.
 
-
-## Chapter 10: 
-
-
