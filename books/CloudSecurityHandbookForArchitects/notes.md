@@ -346,7 +346,7 @@ SECaaS Framework
 1. Risk assessment
 2. Discovery
 3. Integration
-4. MOnitoring
+4. Monitoring
 repeat
 
 Best practices
@@ -357,6 +357,8 @@ Best practices
 
 
 ## Chapter 09: Cloud Security Recommendations and Best Practices
+
+Nothing in this chapter not already covered.
 
 
 ## Chapter 10: 
