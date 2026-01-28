@@ -56,6 +56,12 @@ Reword into more helpful advice
 
 ## Chapter 05: Time Rules Exist to Serve You
 
+Not you serve the time rules
+
+Reframe rule
+I always -> more often than not
+
+
 
 ## Chapter 06: 
 
