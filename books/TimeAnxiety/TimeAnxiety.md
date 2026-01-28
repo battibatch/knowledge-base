@@ -14,7 +14,16 @@ Actions
 * Do not agree to requests and commitments w/o thinking
 
 
-## Chapter 02: 
+## Chapter 02: Cognitive Distortions
+
+Over-generalization - seeing 1 bad outcome as a never ending pattern of failure
+Black/white thinking - no middle ground
+Filtering - focus only on negative
+Personalization - thinking everything bad that happens is your fault
+
+These distortions can lead to procrastination, over-committing, neglecting self-care
+
+Label and Challenge these thoughts and create a counterstatement
 
 
 ## Chapter 03: 
