@@ -26,9 +26,22 @@ These distortions can lead to procrastination, over-committing, neglecting self-
 Label and Challenge these thoughts and create a counterstatement
 
 
-## Chapter 03: 
+## Chapter 03: Time Blindness Hinders Your Sense of Time
 
-## Chapter 04: 
+Time Blindness is chronically misjudging time 
+
+often means you just process time differently
+
+Make time more visible
+Use alarms and calendars instead of memory
+Make timekeeping sensory or multidimensional
+Notice Time sucks
+allow more time
+
+
+## Chapter 04: Unlearning
+
+
 
 ## Chapter 05: 
 
