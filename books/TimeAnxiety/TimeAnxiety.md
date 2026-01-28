@@ -2,9 +2,20 @@
 Gillebeau, Chris
 2025
 
-## Chapter 01: 
+## Chapter 01: Start by Giving Yourself More Time
+
+Anxiety inhibits your ability to think clearly in the moment
+
+Actions
+1. Practice "Time decluttering" - remove items from your calendar
+2. Put a brick in your inbox - Turn off ways you can be accessed. Resist the expectation that your attention os up for grabs.
+* remove time-wasting apps from phone
+* Turn off all but essential notifications
+* Do not agree to requests and commitments w/o thinking
+
 
 ## Chapter 02: 
+
 
 ## Chapter 03: 
 
