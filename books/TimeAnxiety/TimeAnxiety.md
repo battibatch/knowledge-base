@@ -41,9 +41,21 @@ allow more time
 
 ## Chapter 04: Unlearning
 
+unlearn bad advice
+* Prioritize, Stop being distracted, Don't worry
+* Get up 1 hour earlier
+* fully schedule life to 15 min increments
+* Outsource tasks
+* Stop being lazy
+
+Reword into more helpful advice
+* balance essential and enjoyable tasks
+* Create a flexible routine
+* Value rest and downtime
 
 
-## Chapter 05: 
+## Chapter 05: Time Rules Exist to Serve You
+
 
 ## Chapter 06: 
 
