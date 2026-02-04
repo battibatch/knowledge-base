@@ -66,9 +66,13 @@ rules need to be helpful, or not have them
 * 15 min morning walk
 * boundaries for transitions
 
-## Chapter 06: 
+## Chapter 06: Inbox of Shame
 
-## Chapter 07: 
+when drowning you cannot just swim faster
+responsiveness is not the highest value
+
+## Chapter 07: Magical Thinking of Time Management
+
 
 ## Chapter 08: 
 
