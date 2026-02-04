@@ -145,8 +145,24 @@ Cannot be scrolling
 
 ## Chapter 16: The Traffic Light Method of FOcus and Fatigue
 
+hyper focus burnout cycle
+* step away from hyper focus before you burnout
+* better sustainability
 
-## Chapter 17: 
+Green is go
+Yellow is a warning to slow down, take a break before you break
+Red is exhaustion, and counterproductive to keep working
+
+What to do on yellow: 
+1. Lower the goal if you cannot take it easy; easier
+2. Do something different
+3. Push through and pay the cost 
+
+## Chapter 17: A Light Schedule is Sometimes Harder than a Full One
+
+Learn to manage yourself, not time
+* Use power hours wisely
+* 
 
 ## Chapter 18: 
 
