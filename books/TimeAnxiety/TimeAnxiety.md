@@ -81,7 +81,9 @@ Stop trying to control the uncontrollable
 
 ## Chapter 08: What is Enough? 
 
-
+do not treat work as a never ending cycle
+set endpoints and milestones
+define done
 
 ## Chapter 09: 
 
