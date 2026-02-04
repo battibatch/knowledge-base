@@ -61,7 +61,10 @@ Not you serve the time rules
 Reframe rule
 I always -> more often than not
 
-
+rules need to be helpful, or not have them 
+* decide in advance how you'll spend your work day
+* 15 min morning walk
+* boundaries for transitions
 
 ## Chapter 06: 
 
