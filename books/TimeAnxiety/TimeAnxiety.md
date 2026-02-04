@@ -127,8 +127,11 @@ avoid friction loops
 try to touch things once
 slow productivity
 
+## Chapter 14: Nt Finishing Things is One of the Great Joys in Life
 
-## Chapter 14: 
+don't waste time
+applies to social situations
+
 
 ## Chapter 15: 
 
