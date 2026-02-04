@@ -97,9 +97,23 @@ chapter takes it a little far in my opinion, but I get their point. - chose what
 existential: time is running out in my life
 daily: not enough tim in the day
 
-## Chapter 11: 
+## Chapter 11: Use Rules of Engagement to Decide Between Competing Requests
+
+What are common interruptions? 
+When are you most drained? 
+How often do you need to escape work? 
+do you need recharge time? 
+What are you sacrificing for work? 
+
+set boundaries
+limit workload
+time block 
+
+"Can this wait?"
 
 ## Chapter 12: 
+
+
 
 ## Chapter 13: 
 
