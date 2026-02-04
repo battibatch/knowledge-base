@@ -73,8 +73,15 @@ responsiveness is not the highest value
 
 ## Chapter 07: Magical Thinking of Time Management
 
+radical acceptance
+pain + resistance = suffering
 
-## Chapter 08: 
+Stop trying to control the uncontrollable
+
+
+## Chapter 08: What is Enough? 
+
+
 
 ## Chapter 09: 
 
