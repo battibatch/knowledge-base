@@ -133,9 +133,18 @@ don't waste time
 applies to social situations
 
 
-## Chapter 15: 
+## Chapter 15: Knitting is Good for You 
 
-## Chapter 16: 
+cozy hobbies lower anxiety and increase attention span
+low intensity
+low stakes
+
+social or solitary is fine
+
+Cannot be scrolling
+
+## Chapter 16: The Traffic Light Method of FOcus and Fatigue
+
 
 ## Chapter 17: 
 
