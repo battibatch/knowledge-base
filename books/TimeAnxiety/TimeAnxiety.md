@@ -118,7 +118,15 @@ face more, avoid less
 
 or take them off your list forever
 
-## Chapter 13: 
+## Chapter 13: Move On Quickly
+
+avoid friction loops
+* when slow to make decision/plan a thing; friction builds into loop and it gets harder
+* I do this 
+
+try to touch things once
+slow productivity
+
 
 ## Chapter 14: 
 
