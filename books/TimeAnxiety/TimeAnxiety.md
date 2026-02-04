@@ -85,9 +85,14 @@ do not treat work as a never ending cycle
 set endpoints and milestones
 define done
 
-## Chapter 09: 
+## Chapter 09: Do Things Poorly
 
-## Chapter 10: 
+Do not let perfect be the enemy of good enough
+It is not all or nothing
+
+chapter takes it a little far in my opinion, but I get their point. - chose what to keep up with
+
+## Chapter 10: Our Perception of Time Changes as We Age
 
 ## Chapter 11: 
 
