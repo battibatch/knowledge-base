@@ -94,6 +94,9 @@ chapter takes it a little far in my opinion, but I get their point. - chose what
 
 ## Chapter 10: Our Perception of Time Changes as We Age
 
+existential: time is running out in my life
+daily: not enough tim in the day
+
 ## Chapter 11: 
 
 ## Chapter 12: 
