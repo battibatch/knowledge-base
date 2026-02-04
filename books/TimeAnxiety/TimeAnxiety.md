@@ -111,9 +111,12 @@ time block
 
 "Can this wait?"
 
-## Chapter 12: 
+## Chapter 12: Be Right Back, I'm Just Going to Disappear and Never Return
 
+Do not avoid things
+face more, avoid less
 
+or take them off your list forever
 
 ## Chapter 13: 
 
