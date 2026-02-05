@@ -197,11 +197,24 @@ Think about if you will regret it in 10years
 the point of this thought exercise is to find what you really want to do when free from everyday pressures
 
 
-## Chapter 23: 
+## Chapter 23: Planning Your Year is Easier than Planning for a Day
 
-## Chapter 24: 
+Dream big and plan for the year; that will help you plan on what you should do for you days
+
+longer planning cycles boost meaningful progress
+
+## Chapter 24: Weddings Holidays and Other Depressing Events
+
+If holidays suck for you, choose a personal project you can control and create your own special times. 
 
 
-## Chapter 25: 
+## Chapter 25: Pay yourself first
 
-## Chapter 26: 
+Plan your days around what you want to do, not have to do
+Do not justify it
+combine planning and spontaneity
+
+
+## Chapter 26: Instead of leaving a legacy, learn to live well
+
+I like this phrase
