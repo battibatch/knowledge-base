@@ -176,8 +176,14 @@ They say there is always something special about every day...
 
 ## Chapter 19: The Real Problem is We're going to Die
 
+You literally have a finite amount of time
+say no to things, preserve your time
+Use mortality to live more purposefully
 
-## Chapter 20: 
+## Chapter 20: Hold On to That Feeling
+
+find what makes you happy and do it
+do not neglect yourself
 
 ## Chapter 21: 
 
