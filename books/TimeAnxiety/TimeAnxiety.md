@@ -185,13 +185,22 @@ Use mortality to live more purposefully
 find what makes you happy and do it
 do not neglect yourself
 
-## Chapter 21: 
+## Chapter 21: How we respond to regret is more important than avoiding it
 
-## Chapter 22: 
+Avoid future regret
+get comfortable with change
+don't be afraid to make a decision
+Think about if you will regret it in 10years
+
+## Chapter 22: The 8th Day of the Week
+
+the point of this thought exercise is to find what you really want to do when free from everyday pressures
+
 
 ## Chapter 23: 
 
 ## Chapter 24: 
+
 
 ## Chapter 25: 
 
