@@ -162,11 +162,20 @@ What to do on yellow:
 
 Learn to manage yourself, not time
 * Use power hours wisely
-* 
+ 
+Review how you spend unscheduled time, and adjust as needed
 
-## Chapter 18: 
+They suggest humans average at only 3-4 hours of focused work per day; use them wisely.
 
-## Chapter 19: 
+## Chapter 18: The Movie of Your Life
+
+you are the director; what scenes do you want to add? 
+that means take an more active role in your life
+
+They say there is always something special about every day... 
+
+## Chapter 19: The Real Problem is We're going to Die
+
 
 ## Chapter 20: 
 
