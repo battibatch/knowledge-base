@@ -59,8 +59,29 @@ d. Realize that you are simultaneously everything and nothing - and decide what 
 e.What you will be will depend on the perspective you have. 
 
 1.6 Understand Natures' practical lessons
+a. Maximize your evolution
+b. Remember, no pain, no gain
+c. It is a fundamental law of nature that in order to gain strength one has to push one's limits - which is painful
+
+1.7 Pain + Reflection = Progress
+a. Go to the pain rather than avoiding it
+b. Embrace tou love
+
+1.8 Weigh 2nd and 3rd order consequences
+
+1.9 Own your outcomes
+
+1.10 Look at the machine from the higher level
+a. Think of yourself as a machine operating within a machine and know that you have the ability to alter your machine to produce better output comes
+b. By comparing your outcomes with your goals, you can determine how to modify your machine
+c. Distinguish between you as the designer of your machine and you are the worker with your machine
+d. The biggest mistake most people make is to not see themselves and others objectively, which leads them to bump into their own and others' weaknesses again and again. 
+e. Successful people are those who can go above themselves to see things objectively and manage those things to shape change. 
+f. Asking others who are strong in areas where you are weak to help you is a great skill that you should develop not matter what, as it will help you develop guardrails that will prevent you from doing what you should not be doing.
+g. Because it is difficult to see oneself objectively, you need to rely on the input of others and the whole body of evidence
+h. If you are open-minded enough and determined, you can get virtually anything you want. 
 
 
-## Chapter 10: 
+## 2: Use the 5 Step Process to Get What You Want Out of Life 
 
 
