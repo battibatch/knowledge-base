@@ -84,4 +84,53 @@ h. If you are open-minded enough and determined, you can get virtually anything 
 
 ## 2: Use the 5 Step Process to Get What You Want Out of Life 
 
+1. Have clear goals
+2. Id and don't tolerate the problems that stand in the way of your achieving the goals
+3. Accurately diagnose the problems to get their root causes
+4. Design plans that will get you around them
+5. Do what is necessary to push these designs through to the result 
 
+2.1 Have clear goals
+a Prioritize: while you can have virtually anything you want, you can't have everything you want
+b. Don't confuse goals with desires
+c. Decide what you really want in life by reconciling your goals and your desires
+d. Don't mistake the trappings of success for success itself
+e. Never rule out a goal because you think it is unattainable
+f. Remember that great expectations create great capabilities
+g. Almost nothing can stop you from succeeding if you have flexibility and self-accountability
+h. Knowing how to deal well with your setbacks is as important as knowing how to move forward
+
+2.2 Id and don't tolerate problems
+a. View painful problems as potential improvements that are screaming at you
+b. Don' avoid confronting problems because they are rooted in harsh realities that are unpleasant to look at. 
+c. Be specific in id'ing your problems
+d. Don't mistake a cause of a problem with the real problem
+e. Distinguish big problems from small ones
+f. Once you Id a problem, don't tolerate it
+
+2.3 Diagnose problems to get at their root causes
+a. Focus on the "what is" before deciding "what to do about it"
+b. Distinguish proximate causes from root causes
+c. Recognize that knowing what someone (including you) is like will tell you what you can expect from them
+
+2.4 Design a Plan
+a. Go back before you go forward
+b. Think about your problem as a set of outcomes produced by a machine 
+c. Remember that there are typically many paths to achieving your goals
+d. Think of your plan as being like a movie script in that you visualize who will do what through time. 
+e. Write down your plan for everyone to see and measure your progress against
+f. Recognize that it doesn't take a lot of time to design a good plan
+
+2.5 Push through to completion
+a. Great planners who don't execute their plan, go nowhere
+b. Good work habits are vastly underrated
+c. Establish clear metrics to make certain that you are following your plan
+
+2.6 Remember that weaknesses don't matter if you find solutions
+a. Look at the pattern of your mistakes and identify at which step in the process you typically fail
+b. Everyone has at least one big thing that stands in the way of their success; find yours and deal with it. 
+
+2.7 Understand your own and others mental maps and humility
+![alt text](image.png)
+
+## 3. Be Radically Open-Minded
