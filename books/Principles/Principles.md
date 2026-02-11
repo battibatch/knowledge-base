@@ -188,3 +188,43 @@ h. Use evidence based decision making tools
 i. Know when it is best to stop fighting and have faith in your decision making process
 
 ## 4. Understand That People Are Wired Differently 
+
+4.1 Understand the power that comes from know how you and others are wired
+a. We are born with attributes that can both help us and hurt us, depending on their application
+
+4.2 Meaningful work and relationships are not just nice things we chose for ourselves - they are genetically programmed into us
+
+4.3 Understand the great brain battles and how to control them to get what "you" want
+a. Realize the conscious mind is in a battle with the subconscious mind
+b. Know that the most constant struggle is between feeling and thinking
+c. Reconcile your feelings and your thinking
+d. Chose your habits well
+e. Train your "lower level you: with kindness and persistence to build the right habits
+f. Understand the differences between right and left brained thinking
+g. Understand how much the brain can and cannot change
+
+4.4 Find out what you and others are like
+* Myers-Briggs
+* Workplace personality indicator
+* team dimensions profile
+* Stratified system theory
+a. Introversion vs extroversion
+b. Intuiting vs sensing
+c. Thinking vs feeling
+d. Planning vs perceiving
+e. Creators vs refiners vs advancers, vs executors vs flexors
+    * creators generate new ideas
+    * Advancers communicate these new ideas and carry them forward
+    * Refiners challenge ideas
+    * Executors implement
+    * Flexors combo of all 4 
+f. Focusing on tasks vs focus on goals
+h. Shapers are people who can go from visualization to actualization
+
+4.5 Getting the right people in the right roles in support of your goals is the key to succeeding at whatever you choose to accomplish
+a. Manage yourself and orchestrate others to get what you want
+
+## 5. Learn How to Make Decisions Effectively
+
+
+
