@@ -134,3 +134,57 @@ b. Everyone has at least one big thing that stands in the way of their success; 
 ![alt text](image.png)
 
 ## 3. Be Radically Open-Minded
+
+3.1 Recognize your 2 barriers - ego and blind spots
+a. Understand your ego barrier
+b. Your 2 "yous" fight to control you
+c. Understand your blind spot barrier
+    * Do nt fail to benefit from others thinking
+
+3.2 Practice radical open-mindedness
+    * you may not be seeing your choices optimally
+a. Sincerely believe that you might not know the best possible path and recognize that ability to deal well with "not knowing" is more important than whatever it is you do know.
+b. Recognize decision making is a 2 step process: first, take in all the relevant info, then decide
+c. Don't worry about looking good, worry about achieving your goal
+d. Realize that you cannot put out without taking in
+e. Recognize that to gain the perspective that comes from seeing things through another's eyes, you must suspend judgement for a time - Only through empathizing can you properly evaluate another point of view
+f. Remember that you're looking for the best answer, not the best answer that you can come up with yourself
+g. Be clear on whether you are arguing or seeking to understand and think about which is most appropriate based on your and others' believability
+    * peers can argue, if you know less, seek to understand
+
+3.3 Appreciate the art of thoughtful disagreement
+
+3.4 Triangulate your view with believable people who are willing to disagree
+a. Plan for the worst-case scenario to make it as good as possible
+
+3.5 Recognize signs of closed mindedness and open mindedness that you should watch out for
+* Close minded people: 
+    * do not want ideas challenged
+    * less questions, more statements
+    * focus on being understood instead of understanding
+    * "I could be wrong..."
+    * Block others from speaking
+    * have trouble holding 2 thoughts in the minds
+    * lack humility
+* Open Minded People: 
+    * Curious
+    * believe they could be wrong
+    * feel compelled to see thing through others eyes
+    * know when to make a statement or ask a question
+    * more interested in listening than speaking
+    * can take in new thoughts without losing ability to think
+    * approach everything with fear of they may be wrong
+
+3.6 Understanding how you can become radically open minded
+a Regularly use pain as your guide toward quality reflections
+    * pain comes from being attached to an idea that challenges it
+b. Make being open minded a habit
+c. Get to know your blind spots
+d. If a number of different believable people say ou are doing something wrong and you are the only one who doesn't see it that way, assume you are biased
+e. Meditate
+f. Be evidence based and encourage others to be the same
+g. Do everything in your power to help others also be open minded
+h. Use evidence based decision making tools
+i. Know when it is best to stop fighting and have faith in your decision making process
+
+## 4. Understand That People Are Wired Differently 
