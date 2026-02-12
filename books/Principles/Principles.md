@@ -226,5 +226,72 @@ a. Manage yourself and orchestrate others to get what you want
 
 ## 5. Learn How to Make Decisions Effectively
 
+5.1 Recognize that the biggest threat to good decision making is harmful emotions and decision making is a 2 step process (learning and then deciding) 
 
+5.2 Synthesize the situation at hand
+a. One of the most important decisions you can make is who you ask questions of
+b. Don't believe everything you hear
+c. Everything looks bigger up close; step back and gain perspective
+d. New is overvalued relative to great
+e. Don't over squeeze dots
+    * a dot is just one piece of data from one moment in time
 
+5.3 Synthesize the situation through time
+a. Keep in mind both the rates of change and the levels of things and the relationship between them
+b. Be imprecise
+c. Remember the 80/20 rule and know what the key 20% is
+d. Be an imperfectionist
+
+5.4 Navigate levels effectively
+what it looks like in outline
+1. Big Picture: I want meaningful work that's full of learning
+1.1 I want to be a doctor
+1.1.1 I need to go to med school
+1.1.1.1 I need to get good grades in the sciences
+1.1.1.1.1 I need to stay home and study tonight
+
+a. User the terms "above the line" and "below the line" to establish which level a conversations is on
+* above the line == main points
+* below the line == sub points
+b. Remember that decisions need to be made at the appropriate level, but they need to be consistent across all levels
+
+5.5 Logic, reason, and common sense are you best tools for synthesizing reality and understanding what to do about it. 
+
+5.6 Make you decisions as expected value calculations
+a. Raising the probability of being right is valuable no matter what your probability of being right already is
+b. Knowing when not to bet is as important as knowing what bets are probably work making
+c. The best choices are the ones that have more pros than cons, not those that don't have any cons at all
+
+5.7 Prioritize by weighing the value of additional information against the cost of not deciding
+a. All your "must-dos" must be above the bar before you do your "like-to-dos" 
+b. Chances are you won't have time to deal with the unimportant things, which is better than not having time to deal with the important things. 
+c. Don't mistake possibilities for probabilities
+
+5.8 Simplify; get rid of irrelevant details
+
+5.9 Use principles
+1. slow down thinging to note criteria
+2. write criteria as principle
+3. think about criteria when you have an outcome to assess
+4. refine
+
+5.10 Believability weight your decision making
+
+5.11 Convert your principles into algorithm and have the computer make decisions alongside you.
+
+5.12 Be cautious about trusting AI without having deep understanding
+
+# Pt 3: Work Principles
+
+a. A great org has bot great people and great culture
+b. Great people have both great character and great capabilities
+c. Great cultures bering problems and disagreements to the surface and solve them well and they love imagining abd building great things that haven't been built before. 
+
+Tough love is effective for achieving both great work and great relationships
+a. In order to be great, one cannot compromise the uncompromisable
+
+A believability-weighted idea meritocracy is the best system for making effective decisions
+
+idea meritocracy = radical truth + radical transparency + believability-weighted decisions making 
+
+## 1. Trust in Radical Truth and Radical Transparency
