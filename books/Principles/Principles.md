@@ -295,3 +295,47 @@ A believability-weighted idea meritocracy is the best system for making effectiv
 idea meritocracy = radical truth + radical transparency + believability-weighted decisions making 
 
 ## 1. Trust in Radical Truth and Radical Transparency
+
+1.1 Realize that you have nothing to fear from knowing the truth
+
+1.2 Have integrity and demand it from others
+a. Never say anything about someone that you would not say to them directly and don't try some one without accusing them to their face. 
+b. Don't let loyalty to people stand in the way of truth and the well-being of the organization
+
+1.3 Create an environment in which everyone has the right to understand what makes sense and no one has the right to hold a critical opinion without speaking up
+a. Speak up, own it, or get out.
+b. Be extremely open
+c. Don't be naive about dishonesty
+
+1.4 Be radically transparent
+a. Use transparency to enforce justice
+b. Share the things that are hardest to share 
+c. Keep expectations to radical transparency very rare
+* Exceptions to being transparent
+    * Where the information is of private, personal or confidential nature and doesn't have a meaningful impact on the community at large
+    * Where sharing and managing such info puts long term interest of the community, its clients, and our ability to uphold our principles at risk
+    * Where the value of share the info broadly with the community is very low and the distraction it would cause would be significant
+d. Make sure those who are given radical transparency recognize their responsibilities to handle it wel and to weigh things intelligently
+e. Provide transparency to people who handle it well and either deny it to people who don't or remove those people from the organization
+f. Don't share sensitive info with the orgs' enemies
+
+1.5 Meaningful relationships and meaningful work are mutually reinforcing, especially when supported by radical truth and radical transparency
+
+# 2. Cultivate Meaningful Work and Meaningful Relationships
+
+2.1 Be loyal to the common mission and not to anyone who is not operating consistently with it 
+
+2.2 Be crystal clear on what the deal is
+a. Make sure people give more consideration to others than they demand for themselves
+* put people ahead of your own desires
+b. Make sure that people understand the difference between fairness and generosity
+c. Know where the line is abd on the far side of fair
+d. Pay for work
+* Must be economically viable for the relationship to be sustainable
+
+2.3 Recognize that the size of the org can pose a threat to meaningful relationships
+
+2.4 Remember that most people will pretend to operation in your interest while operating in their own
+
+2.5 Treasure honorable people who are capable and will treat you well even when you're not looking
+
