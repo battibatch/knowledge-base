@@ -321,7 +321,7 @@ f. Don't share sensitive info with the orgs' enemies
 
 1.5 Meaningful relationships and meaningful work are mutually reinforcing, especially when supported by radical truth and radical transparency
 
-# 2. Cultivate Meaningful Work and Meaningful Relationships
+## 2. Cultivate Meaningful Work and Meaningful Relationships
 
 2.1 Be loyal to the common mission and not to anyone who is not operating consistently with it 
 
@@ -339,3 +339,23 @@ d. Pay for work
 
 2.5 Treasure honorable people who are capable and will treat you well even when you're not looking
 
+## 3. Create a Culture in Which It Is OK to Make Mistakes and Unacceptable Not to Learn From Them
+
+3.1 Recognize that mistakes are a natural part of the evolutionary process
+a. Fail well -fail and learn from it
+b. Don't feel bad about your mistakes or those of others; love them
+
+3.2 Don't worry about looking good, worry about achieving your goals
+a. Get over "blame" and "credit" and get on with "accurate" and "inaccurate"
+
+3.3 Observe the patterns of mistakes to see if they are products of weaknesses
+
+3.4 Remember to reflect when you experience pain
+a. Be self-reflective and make sure your people are self-reflective
+b. Know that nobody can see themselves objectively
+c. Teach and reinforce the merits of mistake based learning
+
+3.5 Know what types of mistakes are acceptable and what types are unacceptable and don't all people who work for you to make unacceptable ones
+* scratch and dent, not total it
+
+## 4. Get and Stay in Sync
