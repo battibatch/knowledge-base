@@ -359,3 +359,44 @@ c. Teach and reinforce the merits of mistake based learning
 * scratch and dent, not total it
 
 ## 4. Get and Stay in Sync
+4.1 Recognize that conflicts are essential for great relationships because they are how people determine whether their principles are aligned and resolve their differences
+a. Spend lavishly on the time and energy you devote to getting in sync becuase it's the best investment you can make
+
+4.2 Know how to get in sync and disagree well
+a. Surface areas of possible out-of-syncness
+b. Distinguish between the idle complaint and complaints mean to lead to improvement
+c. Remember that every story has another side
+
+4.3 Be open-minded and assertive at the same time
+a. Distinguish open-minded people from close-minded people
+b. Don't have anything to do with close-minded people
+c. Watch out for people who think its embarrassing not to know
+d. Make sure that those in charge are open-minded about the questions and comments of others
+e. Recognize that getting in sync is a 2 way responsibility
+f. Worry more about substance than style
+g. Be reasonable and expect others to be reasonable
+h. Making suggestions and questioning are not the same as criticizing so don't treat them as if they are
+
+4.4 If it is your meeting to run, manage the conversations
+a. Make it clear who is directing the meeting and whom it is meant to serve
+b. Be precise in what you are talking about to avoid confusion
+c. Make clear what type of communication you are going to have in light of the objectives and priorities
+d. Lead discussions by being assertive and open-minded
+e. Navigate between the different levels of the conversation
+f. Watch out for "topic slip"
+g. Enforce the logic of conversations
+h. Be careful no to lose personal responsibility via group decision making
+i. Utilize the "2 min rule" to avoid persistent interruptions (2 mins to explain)
+j. Watch out for assertive "fast talkers"
+k. Achieve completions in conversations
+l. Leverage your communications
+
+4.5 Great collaboration feels like playing jazz
+a. 1+1=3 
+b. 3 to 5 is more than 20
+
+4.6 When you have alignment, cherish it
+
+4.7 If you find you cannot reconcile major differences, especially values, consider whether the relationship is worth preserving. 
+
+
