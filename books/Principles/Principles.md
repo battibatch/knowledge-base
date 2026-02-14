@@ -399,4 +399,5 @@ b. 3 to 5 is more than 20
 
 4.7 If you find you cannot reconcile major differences, especially values, consider whether the relationship is worth preserving. 
 
+## 5. Believability Weight Your Decision Making
 
