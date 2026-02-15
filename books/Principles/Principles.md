@@ -401,4 +401,16 @@ b. 3 to 5 is more than 20
 
 ## 5. Believability Weight Your Decision Making
 
+5.1 Recognize that having an effective idea meritocracy requires that you understand the merit of each person's ideas
+a. If you can't successfully do something. don't think you can tll others how it should be done.
+b. remember that everyone have opinions and they are often bad
 
+5.2 Find the most believable people possible who disagree with you and try to understand their reasoning
+a. Think about people believability in order to asses the likelihood that their opinions are good. 
+b. Remember that believable opinions are most likely to come from people who have successfully accomplished that think in question at least 3 times and who have great explanations of the cause-effect relationships that led them to their conclusions.
+c. If someone hasn't done something but has a theory that sees logical and can be stress tested; then stress test it. 
+d. Don't pay as much attention to peoples conclusions as to the reasoning that led to their conclusion
+e. Inexperienced people can have great ideas too, sometimes better ones that more experienced people
+f. Every one should be up front in expressing how confident they are in their thoughts
+
+5.3 Think about whether you are playing the role of a teacher, a student or a peer, and whether you should be teaching asking questions or debating. 
