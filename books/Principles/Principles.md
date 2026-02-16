@@ -418,4 +418,16 @@ f. Every one should be up front in expressing how confident they are in their th
 a. It is more important that the student understand the teacher than the teacher understand the student, though both are important
 b. Recognize that while everyone has the right and responsibility to try to make sense of important things, then must do so with humility and radical open-mindedness
 
+5.4 Understand how people came by their opinions.
+a. If you ask someone a question, they will give you an answer, so think through to whom you should address your questions
+b. Having everyone randomly probe everyone else is an unproductive waste of time.
+c. Beware of statements that begin w "I think that..." 
+d. Assess believability by systematically capturing peoples track records over time
 
+5.5. Disagreeing must be done efficiently
+a. Know when to stop debating and move on to agreeing about what should be done.
+b. Use believability weighing as a tool rather than substitute for decision making by Responsible Parties
+c. Since you don't have the time to thoroughly examine everyone's' thinking yourself, choose you believable people wisely. 
+d. When you're responsible for a decision, compare the believability-weighted decision making of the crowd to what you believe
+
+5.6 Recognize that everyone has the right and responsibility to try and make sense of important things.
