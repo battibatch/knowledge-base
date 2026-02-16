@@ -414,3 +414,8 @@ e. Inexperienced people can have great ideas too, sometimes better ones that mor
 f. Every one should be up front in expressing how confident they are in their thoughts
 
 5.3 Think about whether you are playing the role of a teacher, a student or a peer, and whether you should be teaching asking questions or debating. 
+
+a. It is more important that the student understand the teacher than the teacher understand the student, though both are important
+b. Recognize that while everyone has the right and responsibility to try to make sense of important things, then must do so with humility and radical open-mindedness
+
+
