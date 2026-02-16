@@ -431,3 +431,13 @@ c. Since you don't have the time to thoroughly examine everyone's' thinking your
 d. When you're responsible for a decision, compare the believability-weighted decision making of the crowd to what you believe
 
 5.6 Recognize that everyone has the right and responsibility to try and make sense of important things.
+a. Communication aimed at getting the best answer should involved the most relevant people 
+b. Communication aimed at educating or boosting cohesion should involve a broader set of people than would be needed if the aim were just getting the best answer
+c. Recognize that you don't need to make judgments about everything
+
+
+5.7 Pay more attention to whether the decision making system is fair than whether you get your way 
+
+# 6. Recognize How to Get Beyond Disagreements
+
+6.1 Remember: Principles cannot be ignored by mutual agreement 
