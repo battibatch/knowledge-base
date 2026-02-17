@@ -438,6 +438,33 @@ c. Recognize that you don't need to make judgments about everything
 
 5.7 Pay more attention to whether the decision making system is fair than whether you get your way 
 
-# 6. Recognize How to Get Beyond Disagreements
+## 6. Recognize How to Get Beyond Disagreements
 
 6.1 Remember: Principles cannot be ignored by mutual agreement 
+a. The same standards of behavior apply to every one 
+
+6.2 Make sure people don't confuse the right to complain, give advice and openly debate with the right to make decisions
+a. When challenging a decision and/or decision maker, consider the broader context
+
+6.3 Don't leave important conflicts unresolved
+a. Don't let the little things divide you when your agreement on the big things should bind you
+b. Don't get stuck in disagreement - escalate and vote
+
+6.4 Once a decision is made, everyone should get behind it even though individuals may still disagree
+a. See things from a higher level
+b. Never allow the idea meritocracy to slip into anarchy
+c. Dont allow lynch mobs or mob rules
+
+6.5 Remember that if the idea meritocracy comes into conflict with the well-being of the org, it wil inevitable suffer.
+a. Declare "martial law" only in rare and extreme circumstances when the principles need to be suspended
+b. Be wary of people who argue for the suspension of the idea meritocracy for the "good of the org" 
+
+6.6 Recognize that if people who have the power don't want to operate by principles, the principled way of operating will fail
+
+## 7. Remember That the WHO is More Important Than the WHAT
+
+"what you need to do is simple"
+1. Remember the goal
+2. Give the goal to the people who can achieve it (which is best) or tell them what to do to achieve it (which is micromanaging and therefore less good)
+3. Hold them accountable
+4. If they still cannot do the job after you've trained them and given them time to learn, gir rid of them
