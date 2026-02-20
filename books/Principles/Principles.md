@@ -468,3 +468,8 @@ b. Be wary of people who argue for the suspension of the idea meritocracy for th
 2. Give the goal to the people who can achieve it (which is best) or tell them what to do to achieve it (which is micromanaging and therefore less good)
 3. Hold them accountable
 4. If they still cannot do the job after you've trained them and given them time to learn, gir rid of them
+
+7.1 Recognize that most important decisions for you to make is who you choose as your responsible parties
+a. Understand that the most important RPs are those responsible for the goals, outcomes, and machines at the highest level
+
+7.2 
