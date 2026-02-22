@@ -481,3 +481,39 @@ a. Make suer that everyone has someone they report to.
 
 8.1 Match the person to the design
 a. Think through which values abilities and skills you are looking for (in that order)
+b. Make finding the right person systematic and scientific. 
+c. Hear the click: find the right fit between the role and the person
+d. Look for people who sparkle, not just "any ol' one of those" 
+e. Don't use your pull to get someone a job
+
+8.2 Remember that people are built differently and that different ways of seeing and thinking make people suitable for different jobs. 
+a. Understand how to use and interpret personality
+b. Remember that people tend to pick people like themselves so choose interviewers who can ID what you are looking for.
+c. Look for people who are willing to look at themselves objectively
+d. Remember that people typically don't change that much
+
+8.3 Think of your teams the way that sports managers do: No one person possesses everything required to produce success, yet every one must excel
+
+8.4 Pay attention to people track records
+a. Check references
+b. Recognize that performance in school doesn't tell you much about whether a person has the values and abilities you are looking for. 
+c. While it is best to have great conceptual thinkers, understand that great experience and a great track record also count for a lot
+d. Beware of the impractical idealist
+e. Don't assume that a person who been successful elsewhere will be successful in the job you are giving them.
+f. Make sure your people have character and are capable
+
+8.5 Don't hire people just to fit the first job they will do; hire people you want to share your life with. 
+a. Look for people who have ots of great questions
+b. Show candidates your warts; 
+c. Play jazz with people with whom you are compatible but who will also challenge you
+
+8.6 When considering compensation, provide both stability and opportunity
+a. Pay for the person, not the job
+b. Have performance metrics tied at least loosely to compensation
+c. Pay north of fair
+d. Focus more on making the pie bigger than on exactly how to slice it so you or anyone else gets the biggest piece
+
+8.7 Remember that in great partnerships, consideration and generosity are more important that money
+a. Be generous and expect generosity from others
+
+8.8 Great people are hard to find, so make sure you think about how to keep them. 
