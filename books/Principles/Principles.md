@@ -472,4 +472,12 @@ b. Be wary of people who argue for the suspension of the idea meritocracy for th
 7.1 Recognize that most important decisions for you to make is who you choose as your responsible parties
 a. Understand that the most important RPs are those responsible for the goals, outcomes, and machines at the highest level
 
-7.2 
+7.2 Know that the ultimate Responsible Party will be the person who bears the consequences
+a. Make suer that everyone has someone they report to. 
+
+7.3 Remember the force behind the thing
+
+## 8. Hire Right, Because the Penalties for Hiring Wrong Are Huge
+
+8.1 Match the person to the design
+a. Think through which values abilities and skills you are looking for (in that order)
