@@ -517,3 +517,54 @@ d. Focus more on making the pie bigger than on exactly how to slice it so you or
 a. Be generous and expect generosity from others
 
 8.8 Great people are hard to find, so make sure you think about how to keep them. 
+
+## 9. Constantly Train, Test, Evaluate, and Sort People
+
+9.1 Understand that you and the people you manage will go through a process of personal evolution
+a. Recognize that persona; evolution should be relatively rapid and a natural consequence of discovering on's strengths and weaknesses; as a result career paths are not planned at the outset.
+b. Understanding that training guides the process of personal evolution
+c. Teach your people to fish rather than giving them fish, even if that means letting them make some mistakes
+d. Recognize that experience creates internalized learning that book learning can't replace
+
+9.2 Provide constant feedback
+
+9.3 Evaluate accurately, not kindly
+a. In the end, accuracy and kindness are the same thing
+b. Put your compliments and criticisms in perspective
+c. Think about accuracy, not implications
+d. Make accurate assessments
+e. Learn from success as well as from failure
+f. Know that most everyone thinks that what they did, and what they are doing is much more important that is really is
+
+9.4 Recognize that tough love is both the hardest and the most important type of love to give because it is so rarely welcomed
+a. Recognize that while most people prefer compliments, accurate criticism is more valuable
+
+9.5 Don't hide your observations about people
+a. Build your synthesis from teh specifics up
+b. Squeeze the dots
+c. Don't over squeeze a dot
+d. Use evaluation tools such as performance surveys, metrics, and formal reviews to document all aspects of a persons performance
+
+9.6 Male the process of learning what someone is like open evolutionary and iterative
+a. Make your metrics clear and impartial
+b. Encourage people to be objectively reflective about their performance
+c. Look at the whole picture
+d. For performance reviews, start for specific use cases, look for patterns, and get in sync with the person being reviewed by looking at the evidence together
+e. Remember that when it comes to assessing people, the 2 biggest mistakes you can make are being overconfident in your assessment and failing to get in sync on it
+f. Get in sync on assessments in a non-hierarchal way
+g. Learn about your people and have them learn about you through frank conversations about mistakes and their root causes
+h. Understand that making sure people are doing a good job doesn't require watching everything that everybody is doing at all times
+i. Recognize that change is difficult
+j. Help people through the pain that comes with exploring their weaknesses
+
+9.7. Know how people operate and being able to judge whether that way of operating will lead to good results is more important than know what they did
+a. If someone is doing their job poorly, consider whether it is due to inadequate learning or inadequate ability
+b. Training and testing a poor performer to see if they can aquire the required skills w/o simultaneously trying to assess their abilities is a common mistake
+
+9.8 Recognize that when you are really in sync with someone about their weaknesses, the weaknesses are probably true. 
+a. When judging people, remember that you don't have to get to the point of "beyond a shadow of a doubt" 
+b. It should take you no more than a year to learn what a person is like and whether they are a click for their job
+c. Continue assessing people throughout their tenure
+d. Evaluate employees with the same rigor as you evaluate job candidates
+
+9.9 Train, guardrail or remove people; don't rehabilitate them.
