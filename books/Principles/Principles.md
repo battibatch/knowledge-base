@@ -568,3 +568,14 @@ c. Continue assessing people throughout their tenure
 d. Evaluate employees with the same rigor as you evaluate job candidates
 
 9.9 Train, guardrail or remove people; don't rehabilitate them.
+a. Don't collect people
+b.Be willing to shoot the people you love
+c. When some one is "without a box" consider if whether there is an open box that would be a better fit or whether you need to get them out of the company
+d. Be cautious about allowing people to step back to another role after failing
+
+9.10 Remember that the goal of a transfer is the best, highest use of the person in a way that benefits the company as a whole
+a. Have people "complete their swings" before moving on to new roles
+
+9.11 Don't lower the bar
+
+## 10. Manage as Someone Operating a Machine to Achieve a Goal
