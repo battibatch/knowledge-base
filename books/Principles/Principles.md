@@ -652,3 +652,17 @@ a. Put things in perspective by going back before going forward
 10.13 Escalate when you can't adequately handle your responsibilities and make sure that the people who work for you are proactive about doing the same
 
 ## 11. Perceive and Don't Tolerate Problems
+
+11.1 If you're not worried, you need to worry; if you are worried, you do not need to worry
+
+11.2 Design and oversee a machine to perceive whether things are good enough or not good enough, or do it yourself
+a. Assign people the job of perceiving problems, give them time to investigate, and make sure they have independent reporting lines so that they can convey problems without an fear of recrimination
+b. Watch out for the "frog in boiling water" 
+c. Beware of group-think: the fact that no one seems concerned doesn't mean nothing is wrong
+d. To perceive problems, compare how the outcomes are lining up with your goals
+e. Taste the soup
+f. Have as many eyes looking for problems as possible
+g. Pop the cork - your responsibility to make sure info flows freely
+h. Realize that the people closest to certain jobs probably know then best
+
+11.3 
