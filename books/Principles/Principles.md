@@ -579,3 +579,76 @@ a. Have people "complete their swings" before moving on to new roles
 9.11 Don't lower the bar
 
 ## 10. Manage as Someone Operating a Machine to Achieve a Goal
+
+10.1 Look down on your machine and yourself within it from the higher level
+a. Constantly compare your outcomes to your goals
+b. Understanding that a great manager is essentially an organizational engineer
+c. Build great metrics
+d. Beware of paying too mach attention to what is coming at you and not enough attention to your machine
+e. Don't get distracted by shiny objects
+
+10.2 Remember that for every case you deal with, your approach should have 2 purposes, to move you closer to your goal and to train and test your machine (people and design) 
+a. Everything is a case study
+b. When a problem occurs, conduct the discussion at 2 levels: that machine level (why that outcome was produced) and the case at hand level (what to do about it)
+c. When making rules, explain principles behind them
+d. Your policies should be natural extensions of your principles
+e. While good principles and policies almost always provide good guidance, remember that there are exceptions to every rule
+
+10.3 Understand the difference between micromanaging and not managing
+a. Manager must make sure that what they are responsible for works well
+b. Managing the people who report to you should feel like skiing together
+c. An excellent skier is going to be a better ski coach than a novice skier
+d. You should be able to delegate the details
+
+10.4 Know what your people are like and what makes them tick, because your people are your most important resource
+a. Regularly take the temperature of each person who is important to you and to the organization
+b. Learn how much confidence to have in your people - don't assume it. 
+c. Vary your involvement based on your confidence
+
+10.5 Clearly assign responsibilities
+a. Remember who has what responsibilities
+b. Watch out for "job slip" (when a job changes w/o being agreed to)
+
+10.6 Probe deep and hard to learn what you an expect from your machine
+a. Get a threshold level of understanding
+b. Avoid staying too distant
+c. Use daily updates as a tool for staying on top of what your people are doing and thinking
+d. Probe so you know whether problems are likely to occur before they actually do
+e. Probe to the level below the people who report to you
+f. Have the people who report to the people who report to you feel free to escalate their problems to you
+g. Don't assume that people answers are correct
+h. Train your ear
+i. Make your probing transparent rather than private 
+j. Welcome probing
+k. Remember that people who see things and think one way often have difficulty communicating with and relating to people who see and think a different way
+l. Pull all suspicious threads
+m. Recognize that there are many ways to skin a cat
+
+10.7 Think like an owner, and expect the people you work with to do the same
+a. Going on vacation doesn't mean one can neglect ones responsibilities
+b. Force yourself and the people who work for you to do difficult things
+
+10.8 Recognize and deal with key person risk
+
+10.9 Don't treat everyone the same - treat them appropriately
+a. Don't let yourself get squeezed
+b. Care about the people who work for you
+
+10.10 Know that great leadership is generally not what its made out to be
+a. Be weak and strong at the same time
+b. Don't worry about whether or not your people like you and don't look to them to tell you what you should do.
+c. Don't give orders and try to be followed; try to be understood and to understand others by getting in sync
+
+10.11 Hold yourself and your people accountable and appreciate them for holding you accountable
+a. If you've agreed with someone that something is suppose to do a certain way, make sure it does - unless you get in sync about doing it differently
+b. Distinguish between a failure in which someone broke their "contract" and failure in which there was no contract to begin with. 
+c. Avoid getting sucked down - doing a subordinates job
+d. Watch out for people who confuse goals and tasks because if they can't make that distinction, you cannot trust them with responsibilities
+e. Watch out for the unfocused and unproductive "theoretical should" 
+
+10.12 Communicate the plan clearly and have clear metrics conveying whether you are progressing according to it
+a. Put things in perspective by going back before going forward
+
+10.13 Escalate when you can't adequately handle your responsibilities and make sure that the people who work for you are proactive about doing the same
+
+## 11. Perceive and Don't Tolerate Problems
