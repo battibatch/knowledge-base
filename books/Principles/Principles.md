@@ -672,3 +672,65 @@ a. Avoid the anonymous "we" and "they" because they mask personal responsibility
 a. Understand that problems with good, planned solutions in place are completely different from those without such solutions
 b. Think of the problems you perceive in a machine like way
 
+## 12. Diagnose Problems to Get at Their Root Causes
+
+12.1 To diagnose well, ask the following questions
+1. Is the outcome good or bad
+2. Who is responsible for the outcome
+3. If the outcome is bad, is the Responsible Party incapable or is the design bad
+
+a. Ask yourself "who should do what differently"
+b. identify at which step in the 5 step process the failure occurred
+c. Id the principles that were violated
+d. Avoid Monday morning quarterbacking
+e. Don't confuse the quality of someones' circumstances with the quality of their approach to dealing with the circumstances
+f. Id'ing the fact that someone else doesn't know what to do doesn't mean that you know what to do
+g. Remember that a root cause is not an action, but a reason
+h. To distinguish between a capacity issue and a capability issue, imaging how the person would perform at that particular function if they had ample capacity
+i. Keep in mind managers usually fail or fall short of their goals for 1 or 5 reasons
+    1. They are too distant
+    2. They have problems percieving bad quality
+    3. they have lost sight of how bad things have become because they have gotten used to it. 
+    4. They have such high pride in their work (or such large egos) that they can't bear to admit they are unable to solve their own problems
+    5. They fear adverse consequences from admitting failure
+
+12.2 Maintain an emerging synthesis by diagnosing continuously
+
+12.3 Keep in mind that diagnoses should produce outcomes
+a. Remember that if you have the same people doing the same things, you should expect the same result
+
+12.4 Use the following "drill-down" technique to gain an 80/20 understanding of a department or sub-department that is having problems
+    1. List the problems
+    2. ID the root causes
+    3. Create a plan
+    4. Execute the plan
+
+12.5 Understand that diagnosis is foundational to both progress and quality relationships
+
+## 13. Design Improvements to Your Machine to Get Around Your Problems
+
+13.1 Build your machine
+
+13.2 Systemize your principles and how they will be implemented
+a. Create great decision making machines by thinking through the criteria you are using to make decisions while you are making them
+
+13.3 Remember that a good plan should resemble a movie script
+a. Put yourself in the position of pain for a while so that you gain a richer understanding of what you're designing for
+b. Visualize alternative machines and their outcomes and then choose
+c. COnsider second and third order consequences not just first order ones
+d. Use standing meetings to help your organization run like a swiss clock
+e. Remember that a good machine takes into account the fact that people are imperfect
+
+13.4 Recognize that design is an iterative process. Between a bad "now" and a good "then" is a "working through it" period
+a. Understand the power of a "cleansing storm" 
+
+13.5 Build the org around goals rather than tasks
+a. Build your org from the top down
+b. Remember that everyone must be overseen by a believable person who has high standards.
+c. Make sure the people at the top of each pyramid have the skills and focus to manage their direct reports and a deep understanding of their jobs 
+d. In designing your organization, remember that the 5 step process is the path to success and that different people are good at different steps. 
+e. Don't build the organization to fit the people
+f. Keep scale in mind
+g. Organize depts and sub-depts around the most logical groupings based on "gravitational pull" 
+h. Make dept as self sufficient as possible so that they have control over the resources they need to achieve their goals
+i. 
