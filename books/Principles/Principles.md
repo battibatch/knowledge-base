@@ -665,4 +665,10 @@ f. Have as many eyes looking for problems as possible
 g. Pop the cork - your responsibility to make sure info flows freely
 h. Realize that the people closest to certain jobs probably know then best
 
-11.3 
+11.3 Be very specific about problems; don't start with generalization
+a. Avoid the anonymous "we" and "they" because they mask personal responsibility
+
+11.4 Don't be afraid to fix the difficult things
+a. Understand that problems with good, planned solutions in place are completely different from those without such solutions
+b. Think of the problems you perceive in a machine like way
+
