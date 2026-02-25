@@ -733,4 +733,38 @@ e. Don't build the organization to fit the people
 f. Keep scale in mind
 g. Organize depts and sub-depts around the most logical groupings based on "gravitational pull" 
 h. Make dept as self sufficient as possible so that they have control over the resources they need to achieve their goals
-i. 
+i. Ensure that the ratios of sr managers to jr managers and of jr managers to their reports are limited to preserve quality communication and mutual understanding, 1:10 max
+j. Consider succession and training in your deign
+k. Don't just pay attention to your job; pay attention to how your job will be done if you are no longer around
+l. Use "double-do" instead of "double check" to make sure mission-critical tasks are done correctly
+m. Use consultants wisely and watch out for consultant addiction
+
+13.6 Create an org chart to look like a pyramid, with straight lines down that don't cross
+a. Involve the person who is the point of the pyramid when encountering cross-department or cross-sub-department issues
+b. Dcn't do work for people in another department or grab people from another department to do work for you unless you speak wth the person responsible for overseeing the other department
+c. Watch out for "department slip" 
+
+13.7 Create guardrails when needed, and remember it's better to not guardrail at all
+a. Don't expect people to recognize and compensate for their own blind spots
+b. Consider the clover leaf design
+
+13.8 Keep your strategic vision the same while making appropriate tactical changes as circumstances dictate
+a. Don't put expedient ahead of the strategic
+b. Think about both the big picture and the granular details and understand the connections between them
+
+13.9 Have good controls so that you are not exposed to the dishonesty of others
+a. Investigate and let people know you are going to investigate
+b. Remember that there is no sense in having laws unless you have police (auditors)
+c. Beware of rubber stamping
+d. Recognize that people who make purchases on your behalf probably will not spend your money wisely
+e. Use "public hangings" to deter bad behavior
+
+13.10 Have the clearest possible reporting lines and delineations of responsibilities
+a. Assign responsibilities based on workflow design and people abilities, not job titles
+b. Constantly think about how to produce leverage
+c. Recognize that it is far better to find a few smart people and give them the best technology than to have a greater number of ordinary people who are less well equipped
+d. Use leverages
+
+13.11 Remember that almost everything will take more time and cost more money than you expect.
+
+## 14. Do What You Set Out to Do
