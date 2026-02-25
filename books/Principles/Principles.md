@@ -768,3 +768,22 @@ d. Use leverages
 13.11 Remember that almost everything will take more time and cost more money than you expect.
 
 ## 14. Do What You Set Out to Do
+
+14.1 Work for goals that you and your organization are excited about and think about how your tasks connect to those goals
+a. Be coordinated and consistent in motivating others
+b. Don't act before thinking. Take time to come up with a game plan 
+c. Look for creative cut-through solutions
+
+14.2 Recognize that everyone has too much to do
+a. Don't get frustrated
+
+14.3 Use Checklists
+a. Don't confuse checklists with personal responsibility
+
+14.4 Allow time for rest and renovation
+
+14.5 Ring the bell
+
+## 15. Use Tools and Protocols to Shape How Work Is Done
+
+
