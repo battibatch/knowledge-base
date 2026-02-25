@@ -791,4 +791,18 @@ a. To produce real behavioral change, understand that there must be internalized
 b. Use tools to collect data and process it into conclusions and actions
 c. Foster and environment of confidence and fairness by having clearly-stated principles that are implemented in tools and protocols so that they conclusions reached can be assessed by tracking the logic and data behind them
 
+## 16. And for Heaven's Sake, Don't Overlook Governance!
 
+16.1 To be successful, all orgs must have checks and balances
+a. Even in an idea meritocracy, merit cannot be the only determining factor in assigning responsibility and authority
+b. Make sure that no one is more powerful than the system or so important that they are irreplaceable
+c. Beware of fiefdoms
+d. Make clear that the org's structure and rules are designed to ensure that it's checks and balances system functions well
+e. Ensure reporting lines are clear 
+f. Make sure decision rights are clear
+g. Make sure that the people doing the assessing have the time to be fully informed about the person they are checking on is doing, have the ability to make the assessments and are not in a conflict of interest that stands in the way of carrying ovt oversight effectively
+h. Recognize that decision makers must have access to the info necessary to make decisions and must be trustworthy enough to handle that information safely
+
+16.2 Remember that in an idea meritocracy a single CEO is not as good as a great group of leaders
+
+16.2 Non governance system of principles rules and check and balances can substitute for great partnerships
