@@ -786,4 +786,9 @@ a. Don't confuse checklists with personal responsibility
 
 ## 15. Use Tools and Protocols to Shape How Work Is Done
 
+15.1 Having systemized principles embedded in tools is especially valuable for an idea meritocracy
+a. To produce real behavioral change, understand that there must be internalized or habituated learning
+b. Use tools to collect data and process it into conclusions and actions
+c. Foster and environment of confidence and fairness by having clearly-stated principles that are implemented in tools and protocols so that they conclusions reached can be assessed by tracking the logic and data behind them
+
 
