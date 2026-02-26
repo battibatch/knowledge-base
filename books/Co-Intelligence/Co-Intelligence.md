@@ -28,7 +28,16 @@ Principle 3: Treat AI like a person (but tell it what kind of person it is)
 Principle 4: Assume this is the worst AI you will ever use
 
 
-## Chapter 04: 
+## Chapter 04: AI As a Person
+
+AI is unpredictable and unreliable
+AI doesn't act like software; it acts like a person
+
+Imitation Games
+* turing test history
+
+
+
 
 ## Chapter 05: 
 
