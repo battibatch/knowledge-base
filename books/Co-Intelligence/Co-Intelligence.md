@@ -54,6 +54,30 @@ tl;dr - use AI For creative tasks
 
 Your job will overlap w/ AI 
 
+Tasks and the Jagged Frontier
+* do not juat past a question in to AI
+* do not rely on it exclusively
+
+Tasks for me, tasks for AI 
+* Human only 
+* Delegated
+* Automated
+
+Centaurs and Cyborgs
+* Centaur work has a clear line between person and machine
+* Cyborgs are a blend of machine and person 
+
+Secret Task automation
+* What is your vision about how AI makes your work better rather than worse
+
+From Tasks to Systems
+* find a way to automate the tedious
+
+From Systems to Jobs
+* AI is a bigger boost for lower skills than higher
+* Amara's Law: We end to overestimate the effect of technology in the short run, but underestimate it in the long run"
+
+
 ## Chapter 07: 
 
 ## Chapter 08: 
