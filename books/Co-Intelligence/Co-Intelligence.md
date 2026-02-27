@@ -35,13 +35,24 @@ AI doesn't act like software; it acts like a person
 
 Imitation Games
 * turing test history
+* strange convo where he tells AI it seems sentient
+
+Sparks
 
 
 
+## Chapter 05: AI as a Creative
 
-## Chapter 05: 
+Automatic Creativity
+Out Inventing Humans
+Adding AI to Creative Work
+The meaning of creative work
 
-## Chapter 06: 
+tl;dr - use AI For creative tasks 
+
+## Chapter 06: AI as a Coworker
+
+Your job will overlap w/ AI 
 
 ## Chapter 07: 
 
