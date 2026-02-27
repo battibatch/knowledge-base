@@ -78,7 +78,7 @@ From Systems to Jobs
 * Amara's Law: We end to overestimate the effect of technology in the short run, but underestimate it in the long run"
 
 
-## Chapter 07: 
+## Chapter 07: AI as a Tutor
 
 ## Chapter 08: 
 
