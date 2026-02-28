@@ -2,6 +2,9 @@
 Mollick, Ethan
 2024
 
+## My commentary
+I am sure this was cutting edge in 2024, but in early 2026, it was basically useless.
+
 ## Chapter 01: Creating Alien Minds
 AI basics
 
@@ -104,6 +107,18 @@ When Everyone is an Expert
 
 
 ## Chapter 09: AI has our Future
+
+Scenario 1: AI is already as good as it gets
+* deep fakes
+
+Scenario 2: Slow Growth
+* ad companies us AI for more targeted Ads
+* work changes for everyone
+
+Scenario 3: Exponential Growth
+* risk is more severe and less predictable
+
+Scenario 4: Machine god
 
 
 ## Chapter 10: 
