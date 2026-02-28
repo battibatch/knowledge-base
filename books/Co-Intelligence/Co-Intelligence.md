@@ -80,7 +80,21 @@ From Systems to Jobs
 
 ## Chapter 07: AI as a Tutor
 
-## Chapter 08: 
+A student tutored 1:1 performed 2 standard deviations above conventional students
+
+After the homework apocalypse
+* students used llms to cheat 
+* it is impossible to detect if text has beem AI generated
+
+Teaching about AI
+* stuff about outdated promting 
+
+Flipped Classrooms and AI Tutors
+
+
+## Chapter 08: AI as a Coach 
+
+
 
 ## Chapter 09: 
 
