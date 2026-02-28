@@ -94,9 +94,17 @@ Flipped Classrooms and AI Tutors
 
 ## Chapter 08: AI as a Coach 
 
+Building Expertise in the Age of AI
+* In order to learn to think critically, problem-solve, understand abstract concepts, reason through novel problems and evaluate AI's output, we need subject matter expertise
+* to do that we need basic knowledge and practice
+* Use AI to be an ever-present mentor
+
+When Everyone is an Expert
+* Human + AI will out perform 10xer if they do not use AI
 
 
-## Chapter 09: 
+## Chapter 09: AI has our Future
+
 
 ## Chapter 10: 
 
