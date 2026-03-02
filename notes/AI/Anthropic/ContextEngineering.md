@@ -3,6 +3,23 @@ https://anthropic.com/engineering/effective-context-engineering-for-ai-agents
 
 2025-09-25
 
+
+## From Platform Docs:
+### Problem 
+
+Large language models have finite context windows While this seems large, several challenges emerge:
+
+* Context limits: Long conversations or complex tasks can exceed available context
+* Computational cost: Processing large contexts is expensive - attention mechanisms scale quadratically
+* Repeated patterns: Similar tasks across conversations require re-explaining context every time
+* Information loss: When context fills up, earlier important information gets lost
+
+### Solution
+1. Memory tool
+* Store task relevant patterns
+* Organize w/ clear directory structure
+* Use descriptive file names
+
 ## Context Eng vs Prompt Eng
 * context is natural progression of prompt
 * Context is set of strategies to for curating and maintaining the optimal set of tokens (information) during LLM inference
