@@ -18,7 +18,27 @@ As number of tokens in context increases, the models ability to recall info from
 ## Anatomy of effective context
 Good context engineering means finding the smallest possible set of high signal tokens that maximize the likelihood of your desired output.
 
-System prompts should be extremely clear and use simple direct language that presents ideas that the right altitude of the agent
+**System prompts** should be extremely clear and use simple direct language that presents ideas that the right altitude of the agent
 ![image](./prompt-altitude.png)
+* Organize into distinct sections
+    * Background
+    * instructions
+    * tool guidance
+    * output guidance
 
+**Tools** allow agents to operate w/ their env and pull in new additional context as they work
+* Do not bloat toolset
 
+## Context Retrieval and agentic search
+
+Using a combo of embeddings and Just in time context
+
+Metadata is important
+Folder hierarchies, naming conventions and timestamps provide more signals
+
+Trade-off: Letting the agent perform runtime exploration is slower than retrieving precomputed data
+
+A hybrid may be better suited for contexts with less dynamic content
+
+## Long Horizon
+<read, but not relevant to my use case today>
