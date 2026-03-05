@@ -53,6 +53,12 @@ AI Engineering stack
 
 ## Chapter 02: Understanding Foundational Models
 
+Model Architecture
+* transformer architecture (lots of detail, ignored)
+
+Model Size - Number of parameters
+* each param is stored using 2 bytes so 7B params needs 14GB GPU mem for inference
+* Biggere is not always better - newer smaller can outperform older larger
 
 ## Chapter 03: 
 
