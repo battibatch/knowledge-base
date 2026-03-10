@@ -58,7 +58,25 @@ Model Architecture
 
 Model Size - Number of parameters
 * each param is stored using 2 bytes so 7B params needs 14GB GPU mem for inference
-* Biggere is not always better - newer smaller can outperform older larger
+* Bigger is not always better - newer smaller can outperform older larger
+* training data quality matter - better more focused data is better
+
+Compute is expensive. Run the right sized model
+
+Scaling bottlenecks - foundations use so much data there is a realist concern we'll run out if internet data to use
+* Research is looking at AI generating data to train on, but concerns
+
+Post training
+goal is address 2 issues: 
+1. optimized for test completion and not conversations
+2. if data is indiscriminate, it can be wrong, rude, sexists, racist, etc. 
+* Fine tune the model to solve for this
+* post training only takes about 2% of compute (98% for pretraining) 
+
+Supervised finetuning is give demonstration data to the model to train it on specific things the company wants - teach to have a conversations
+Preference finetuning is to teach it what kind of conversations to have
+* Reinforced learning from human feedback is common
+
 
 ## Chapter 03: 
 
