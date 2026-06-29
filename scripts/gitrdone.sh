@@ -24,7 +24,7 @@ fi
 # Get the name of the current branch dynamically
 CURRENT_BRANCH=$(git branch --show-current)
 
-echo "🚀 Starting Git automation workflow on branch: $CURRENT_BRANCH..."
+echo "Starting Git automation workflow on branch: $CURRENT_BRANCH..."
 
 # 1. Stage all changes (tracked, untracked, and deletions)
 git add -A
