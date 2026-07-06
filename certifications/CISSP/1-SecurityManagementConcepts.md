@@ -97,8 +97,30 @@ Organizational Process take this into account
 
 ## Organizational Roles and Responsibilities
 
+Executive R&R
+* CEO: Responsible for everything related to the org, will delegate some R&Rs
+* CFO: Responsible for everything relate to org finances and assets
+* CIO: Responsible for the vision and strategy of the org's information systems
+* CISO: Responsible for the vision and strategy of the org's security and programming
+* Boards and Committees: Responsible for making key org decisions
 
+Security Roles
+* Security Manager: Responsible for developing and managing a security program and personnel involved; almost always target audience of reports; Liaison between security and executives
+* Security Officer: Responsible to implement and maintain the infosec strategy or program; coordinate system changes/patches, etc.
+* Security Analysts: Detects, analyzes and responds to security threats and attacks
+* Security Engineer: Design, test and implement of security solutions
 
+Data Roles
+* Data Owner: responsible  for classification and protection of their data
+* Data Custodian: responsible for implementing data protection
+* Data steward: SME for specific data
+
+System Roles
+* Administrators: Responsible for implementing and maintain the info system; privileged
+* Audits: Responsible for auditing the compliance with security policy
+* Users: Access to the info system
+
+MUST WORK TOGETHER
 
 ## Security Awareness Training
 
