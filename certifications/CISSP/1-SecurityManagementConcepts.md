@@ -42,7 +42,7 @@ Canons in practice
 * Provide you best efforts
 * Advance knowledge in skills
 
-Ehthical conduct ensures professionals to take responsibility for their actions
+Ethical conduct ensures professionals to take responsibility for their actions
 
 In practice
 * Promote a culture of ethical behavior
@@ -51,6 +51,21 @@ In practice
 Understand the importance of integrity and accountability in ethical decision making
 
 ## Information Security Concepts
+
+Confidential: ensure data is not disclosed to an unauthz to person process
+Integrity: ensure data is not altered or changed by unauthz person/process
+Availability: ensure data is available for use by authz person/process
+
+Data is not disclosed, altered or deleted
+
+CIA Triad applies everywhere
+
+Authentic: Data or actions coming from legitimate subject
+Authenticated: Subjects must prove to be authentic through ID and authentication (log in)
+
+Non-repudiation: Proof that the data or actions originated from a subject an cannot be disputed (log in is not enough)
+
+completed by Used cryptography (Digital signature)
 
 
 ## Aligning Security and the Organizations
