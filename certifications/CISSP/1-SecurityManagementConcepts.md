@@ -70,8 +70,34 @@ completed by Used cryptography (Digital signature)
 
 ## Aligning Security and the Organizations
 
+Security Governance: Defines how to ethically align business objectives to laws, standards or regulations.
+
+compliance is verification of governance
+
+SECURITY CANNOT IMPACT BUSINESS PROCESSES
+
+Aligning security
+* Security program must support business objectives, principles and strategies of the org
+* Security must also be supported by Sr Mgmt to be effective
+
+Top Down approach
+1. Sr Mgmt must define policies
+2. Middle Mgmt create security artifact based on policies b/c closer to work
+3. All others implement and comply with security
+
+Security Planning
+* Strategic plan: outlines long term goals and objs over 3-5 years but updated annually
+* Tactical plan: Outlines the mid-range goals and objs to meet strategic plan over 1 year
+* Operation plan: Outlines the short term goals and objectives to meet the tactical and strategic plan ojs over the next 1-3 months
+
+Organizational Process take this into account
+* Purchases or acquisitions must be aligned with security objectives to ensure it meets org policy
+* Sales or divestitures must be aligned with security objectives to ensure it meets org policy
+
 
 ## Organizational Roles and Responsibilities
+
+
 
 
 ## Security Awareness Training
