@@ -159,12 +159,41 @@ Update Content
 * Update awareness training and ed delivery based on user results
 
 
-
-
 ## Social Engineering
 
+Psychological manipulation 
+
+Compromising trust by manipulating confidence or certainty in something
+Create Guilt by creating feeling of empathy or responsibility
+Both can be effective in encouraging victim cooperations in social eng attack
+
+Empathy is primary attack
+
+Methods
+* Pretexting: situation involve creation fo fictitious story to encourage trust or crate guilt
+* quid pro quo situation make victim feel guilty to the point a victim feels obligation to help
+
+Phishing
+* SMS, Email, and other methods
+* Spear phishing: Focused on an individual or small group of individuals
+* Whaling: High value target using spear phishing
+* Vishing: Voice phishing
+* Spam over internet Telephony (SPIT): Pre recorded unsolicited
+* Smishing: SMS 
+* Spam over Instant Messaging (SPIM) instant message
+
+Other Attacks
+* Shoulder Surfing: look over shoulder to get info
+* Dumpster Diving: Look through discarded docs/equipment 
+* Tail Gating: Follow in an open locked door
+* Piggybacking: tricks victim to let them in (My hands are full, can you hold door)
+
+Defense
+* training to ID and how to report
+* Require ID and authentication from every one, including visitors
 
 ## Personnel Security Policies
+
 
 
 ## Personnel Safety and Security
