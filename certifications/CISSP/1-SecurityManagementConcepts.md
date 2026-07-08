@@ -124,6 +124,42 @@ MUST WORK TOGETHER
 
 ## Security Awareness Training
 
+Bring relevant security matters to employees attention
+
+Goals:
+* Create and encourage behavioral change to employees by Sr Mgmt
+* Teach personnel their security responsibility
+* Comply with governance regulations and compliance requirements
+
+Focus
+* DRIVE RISK REDUCTION
+* Compliance requirements based on Organization or regulatory policy
+
+Methods
+Training: teaches personnel how to perform their work in accordance with security policy
+Education: Learning that normally exceeds what is needed to satisfy work requirements
+
+Examples
+* Posters, banners
+* Newsletters
+* Website or blog updates
+* seminars or webinars
+* Ed videos on org website
+
+Methods of Encouragement
+* Security Champion: person that encourages the awareness program on behalf of the org mgmt
+* Gamification: Adding games to encourage participation
+
+Program Evaluations
+* Monitor participation, user feedback to determine program effectiveness
+* Watch for behavior changes as a result of the training
+
+Update Content
+* Keep awareness current with emerging security risks
+* Update awareness training and ed delivery based on user results
+
+
+
 
 ## Social Engineering
 
