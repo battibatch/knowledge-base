@@ -233,3 +233,26 @@ Offboarding
 * Maintain dignity
 
 ## Personnel Safety and Security
+
+Personnel are top priority, protect from harm, injury or loss of life
+
+Travel
+* Ensure personnel are traveling to safe and secure areas as part of their duties
+* Ensure computing assets have proper security controls applied and protections mechanism are up to date
+* included in BC/DR
+* Ensure network and remote access capabilities have proper security protections enabled
+* Personnel must know how to contact the org in event of an emergency
+
+Duress
+* is the restraint of personnel by force such as being held hostage or forced to provide facility access
+* Personnel must be properly trained and know how to respond during duress situations
+* Codewords help personnel report duress without alarming an attacker
+* Duress numbers: pin number to signal or specific phone number
+
+Emergency Management
+* Personnel must know how to contact the organization for accountability purposes during an emergency
+* Consider procedure for public relations, emergency services, and law enforcement communications
+* Org policy should include how to handle personnel safety
+* Personnel must know how to contact the org during an emergency
+
+Personnel need training to ensure they are safe and must know hoe to activate alarms, duress codes/words or otherwise respond to emergency
