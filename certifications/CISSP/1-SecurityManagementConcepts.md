@@ -179,7 +179,7 @@ Phishing
 * Whaling: High value target using spear phishing
 * Vishing: Voice phishing
 * Spam over internet Telephony (SPIT): Pre recorded unsolicited
-* Smishing: SMS 
+* Smishing: SMS
 * Spam over Instant Messaging (SPIM) instant message
 
 Other Attacks
@@ -194,6 +194,42 @@ Defense
 
 ## Personnel Security Policies
 
+Reduce security risk of personnel accessing organizational information
 
+Principles
+* Separation fo duties divides sensitive critical tasks among multiple individuals to prevent excessive power or control
+* Least privileges necessary to perform their tasks
+* Need to know grants individuals access to information needed to perform their duties
+
+Candidate Screening
+* Job descriptions id the minimum and preferred qualifications for a positions
+    * Be specific
+* Knowledge skills and attributes required to perform the duties
+* Candidate screen ids unqualified candidates through preliminary questions, reviews and more
+    * Ask preliminary questions related to the position
+    * Review CV, resume, cover letter, references letters
+    * Dot ask illegal questions
+    * Screening interviews allow real time review for Q&A
+* Background check
+
+Employment Agreements
+* Outline the conditions of employment
+* NDA requires the protection of sensitive information within the organization
+* Non-compete agreement (NCA) prevents employees from working for a completing organization for a certain amount of time
+* Acceptable use policies define how employees are to use org assets in the compliant manner
+* Gift policies define the limit on how gifts are provided and received within the org
+* Conflict of interest policies defines situation that conflict with the orgs best interest
+
+Onboarding
+* training employees on their duties and org practices, especially security practices
+* Acknowledge acceptable use, security awareness, and other org specific policies
+* Authorize system access all training and agreements have been acknowledged
+
+Offboarding
+* Termination policy to define requirements for voluntary/involuntary employee termination
+* Require immediate termination of all systems and facility access and collect any organization belongings
+* Require shared access and passwords are changed after termination
+* 2 or more people to witness the termination process with involuntary
+* Maintain dignity
 
 ## Personnel Safety and Security
