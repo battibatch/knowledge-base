@@ -136,7 +136,10 @@ Hacktivism - politically, ideologically or spiritually motivated
 
 ## Determine Compliance Requirements
 
-
+Need to determine proper level of protection and privacy
+Need to prove compliance
+Must apply controls, safeguards as required
+Failure may result in legal/civil etc
 
 ## Security Compliance Artifacts
 
