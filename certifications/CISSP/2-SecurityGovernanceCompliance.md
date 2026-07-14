@@ -62,6 +62,21 @@ GDPR increase scope of previous data privacy regulations
 
 ## Licensing and Property Rights
 
+Intellectual property Rights
+* inheritable rights of ownership
+* protect it 
+
+Patent - inventions
+Trademark - company/logo/slogan
+Copyright - song, art, etc.
+Trade Secret - in place before patent
+Licensing - permission to use a product
+* EULA
+
+Corporate espionage - beyond ethical
+World Intellectual Property Organization - tech assistance for IP
+World Trad organization - structured legal process for IP protections
+
 
 ## Export and Import Controls
 
