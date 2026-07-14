@@ -143,3 +143,25 @@ Failure may result in legal/civil etc
 
 ## Security Compliance Artifacts
 
+Policy - define high-level mandate to comply with requirements
+Standards - set of requirement to comply with policy
+
+Policies
+* Org policy - define goals, responsibilites, ets
+* Issue-specific/function
+* System specific
+
+Other Docs
+* Procedures - highly details instructions on how to implement a standards
+* Baseline - specific requirements necessary to comply with a standard
+* Guideline - Best practice recommendation to implement a standard or baseline
+
+HIPPA -> Privacy policy -> Standard -> Procedures/Guidelines
+
+Doc Development
+* policies unlikely to change
+* should be build with a consistent template
+* use trusted resource for doc templates
+* review docs regularly
+* define requirements for updating docs in the docs
+* create a process for exceptions 
