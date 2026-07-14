@@ -101,9 +101,41 @@ Transborder data flow
 
 ## Cybercrime and Data Breaches
 
+Cybercrime - criminal act involves computing device
+Data Breach - info accessed w/o authz
 
+Cyber Laws
+* CFAA: Computer Fraud and ABuse Act
+NIIPA
+FISMA: Federal in sec modernization
+
+Criminal Actors
+* Attacker
+* Hackers 
+* Script kiddies - low skill pre config'ed tools
+* Insider threats
+* state actors
+
+Types of attacks
+* Active
+* passive - attack w/o affecting ops
+* Zero day - no know patch 
+
+Intentional Disruption Crimes
+* intentional disruption - restriction of availability
+DDoS - bots to attempt disruptions
+DNS Poisoning: Map legitimate names to malicious IP address
+
+Intentions Destruction
+* Terrorism - destroy data center
+* Sanitization - erase everything
+
+Hacktivism - politically, ideologically or spiritually motivated
+* Website defacement
+* Doxxing - public release of sensitive info 
 
 ## Determine Compliance Requirements
+
 
 
 ## Security Compliance Artifacts
