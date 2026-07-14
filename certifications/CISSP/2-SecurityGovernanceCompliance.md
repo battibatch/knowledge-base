@@ -77,11 +77,30 @@ Corporate espionage - beyond ethical
 World Intellectual Property Organization - tech assistance for IP
 World Trad organization - structured legal process for IP protections
 
-
 ## Export and Import Controls
 
+controls == laws
+prevent exposure to unauthz countries
+
+Comply with EX/IM 
+* Controls
+* Regulations - telco and cyber
+
+Wassenaar Arrangement
+* Export controls for conventional arms and dual use goods
+* 42 countries
+* 9 categories
+    * Cat 5, Part1: Telecommunications
+    * Cat 5, Part2: "Information security"
+    * Focuses on telcom, crypto, and cyber weapons
+`   * rest are basically military
+
+Transborder data flow
+* Compliance w/ legal
+* Localization - processed in country
 
 ## Cybercrime and Data Breaches
+
 
 
 ## Determine Compliance Requirements
