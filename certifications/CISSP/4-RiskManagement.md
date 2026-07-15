@@ -68,8 +68,31 @@ Matrix
 ![alt text](image.png)
 
 
-
 ## Continuous Monitoring
+
+Maintain ongoing awareness of org risk and security posture
+
+Regularly evaluate security controls effective against current threats and vulnerabilities
+
+Maintaining full situational awareness by assessing all sec controls
+
+References
+NIST SP 800-137: Info Sec Continuous Monitoring (ISCM)
+ISO 27004: Monitoring, Measurement, analysis and evaluations
+
+Monitoring Strategy
+* Scope: what will be evaluated
+* Method: How will be evaluated
+* Frequency: How often are they evaluated
+* Metric: how are result measure and tracked
+
+NIST Process
+* Define Strategy
+* Establish metrics methods frequencies and scope
+* Implement methods to collect monitoring data
+* Analyze data and report findings
+* Respond to known risks using controls
+* Review/Update the monitoring program by adjusting strategies
 
 
 ## Supply Chain Risk Mgmt
