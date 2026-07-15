@@ -95,5 +95,35 @@ NIST Process
 * Review/Update the monitoring program by adjusting strategies
 
 
-## Supply Chain Risk Mgmt
+## Supply Chain Risk Mgmt (SCRM)
 
+SUpply chain is network between org an supplies to provide 
+
+Frameworks
+* NIST IR 7622: nation Supply Chain Risk Mgmt Practices for Federal Info Systems
+* CNSSD 505: SUpply Chain Risk Mgmt
+* ISO 28000 Spec for sec mgmt systems for the supply chains
+
+SCRM
+* Purpose: evaluate risk in supply chain
+* Risk Analysis of each supplier , vendor or provider to ID obvious risks
+* Compliance: many laws that require some level of supply chain risk Mgmt
+
+Risks
+* Unintentional risk: personnel screening, poor security, unreliable
+* Risk with Services: exposing sensitve data, IP exposure
+* Hardware: counterfeit, builtin sec features
+* software: vulns, malicous code, patching, licenses
+
+Security Requirements
+* Define min set of sec requirements
+* Acquisition strategy to reduce risk
+* Create SLA to define requirements
+
+Assessments
+* On-site visit to observe
+* Doc Review
+* 3rd party audit
+
+Consider every link in chain
+Raw material to Customer
