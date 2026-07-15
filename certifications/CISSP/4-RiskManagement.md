@@ -45,6 +45,29 @@ Risk Maturity Model
 
 ## Controls and Countermeasures
 
+Controls are admin, physical, and or technical safeguards or countermeasures
+
+Control Selection
+* Cost: Control should cost less than the benefit and asset value
+* Benefit must solve org problem
+* Security: The controls should provide consistent protection, reduce risk and be compliant with governance
+
+Defense in Depth
+Asset -> Admin Controls -> Tech logical controls -> Physical controls
+
+Types of controls
+* Deterrent: Discourage unauthorized actions
+* Preventative: Stop unauthz actions
+* detective: Discover unauthz actions
+* Corrective: correct or modify unauthz actions
+* Compensating: support other controls
+* Directive: direct compliance w/ sec policy
+* recovery: recovery from an event
+
+Matrix 
+![alt text](image.png)
+
+
 
 ## Continuous Monitoring
 
