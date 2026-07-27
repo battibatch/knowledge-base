@@ -43,6 +43,16 @@ COSO: Community of sponsoring organizations
 
 ## NIST Cybersecurity Framework
 
+Risk Mgmt and reduction framework based on standards and guidelines and industry best practices
+
+Voluntary framework
+
+Components
+* Core: Activities, implementations and functions designed to achieve the desired cybersec outcomes
+* Tiers: Characterize how the core activities align with the desired cybersec outcomes (how far along we are)
+* Profiles: Alignment of requirements objectives, implementations and risk tolerance to the desired cybersec outcomes
+
+ 
 
 ## ISO/IEC 27001
 
