@@ -115,9 +115,35 @@ Clauses
 
 ISO 27002 - Security Controls
 
+Associate Info Sec Mgmt System (ISMS) to ISO 27001
+
 ## Understanding PCI DSS
 
+Payment Card Industry Data Security Standards
 
+Focus on protecting card holder data from authz or disclosure
+* Account number
+* card holder name
+* expiration date
+* Service code
+
+Sensitive auth data
+* Full track data (Mag strip or chip)
+* Card verification code (CVC)
+* Pin number
+
+treated like law or regulation, but isn't
+
+Reference 60+ docs, 360+ pages
+
+Requirements apply to cardholder data env (CDE)
+* System components, people, and process that store process and transmit cardholder data
+* System that have unrestricted access to ^ 
+* System components people and processes that could impact the security of CDE
+
+12 requirements that breakdown very deep
+
+Defines testing
 
 ## Understanding SABSA
 
