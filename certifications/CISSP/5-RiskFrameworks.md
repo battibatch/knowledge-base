@@ -49,12 +49,38 @@ Voluntary framework
 
 Components
 * Core: Activities, implementations and functions designed to achieve the desired cybersec outcomes
-* Tiers: Characterize how the core activities align with the desired cybersec outcomes (how far along we are)
+* Tiers: Characterize how the core activities align with the desired cybersec outcomes (how far along we are implementing core)
 * Profiles: Alignment of requirements objectives, implementations and risk tolerance to the desired cybersec outcomes
+    * can be both current and target
+    * Business objs, threat env, Requiremetns and controls inform profile
 
- 
+Profile consists of 5 different areas
+* ID: Understand cybersec risk to systems assets data and capabilities, looking at the data
+    ID critical enterprise processes and assets
+    * doc info flows
+    * policy
+    * HW/SW inventory 
+* Protect: implement proper safeguards and countermeasures to ensure delivery fo critical infrastructure services
+    * manage access
+    * protect sensitve data
+    * conduct backups
+* Detect: Implement measure to ID sec related events
+    * Test and update detection process
+    * maintain monitor logs
+    * know expected data flows
+    * Understand impacts of cybersec events
+* Respond: Respond: implement measures to act and respond to sec related events
+    * ensure response plans are update and tested
+    * Coordinated w/ internal external stakeholders
+* Recover: Implement measure to restore and maintain system operations in the event of disruption
+    * communicate w/ internal and externa stakeholders
+    * ensure recovery plans
+    * manage public relations and company reputation
+
 
 ## ISO/IEC 27001
+
+
 
 
 ## Understanding PCI DSS
