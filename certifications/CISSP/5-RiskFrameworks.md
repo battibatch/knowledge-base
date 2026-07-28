@@ -147,3 +147,35 @@ Defines testing
 
 ## Understanding SABSA
 
+Sherwood Applied Business Security Architecture
+
+Methodology for developing enterprise and solution level security architectures that align with business objs
+
+traceably support business obj
+
+overarching framework that enables all other existing standards to support end2end arch solutions
+
+DOES NOT replace or compete with other
+
+Business and Risk Driven
+
+6 architecture layers
+* Contextual - business view
+    * Scope and objs
+* Conceptual - Architect
+    * Translate business goals into sec obj
+    * define high level security arch components
+* Logical - Designer view
+    * define logical sec arch components
+    * define services, policy, etc.
+* Physical - Builder view
+    * implement sec controls
+* Component - Trademans view
+    * implementation of specific sec components
+    * incorporate tools to meet requirements
+* Management - Manger View
+    * Address day to day sec mgmt
+
+Each layer provides a unique point of view to the system security arch
+
+Matix is layers by What/Why/How/WHo/Where/When
