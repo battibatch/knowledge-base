@@ -80,10 +80,43 @@ Profile consists of 5 different areas
 
 ## ISO/IEC 27001
 
+Internationally recognized standard for info sec mgmt system
+all companies, all sectors
 
+system approach to establish and maintain controls
 
+3 principles are CIA
+
+Clauses
+* Context of the org
+    * understand org internal/external context
+    * Understand operating env
+    * Scope and obj
+* Leadership
+    * Stakeholders
+    * Define mgmt commitment to infosec
+    * Establish clear governance
+* Planning
+    * Establish infosec objs, 
+    * systematic risk assessment, etc.
+* Support
+    * Allocation adequate resources human and financial to implment ISMS
+    * Doc policy/procedures guidelines
+    * provide resources, training, comms and docs to support ISMS
+* Operations
+    * Implement and manage controls
+    * Monitor controls and review for effective
+* Performance and evaluations
+    * Monitor and evlauate ISMS performance through audits, review and CI
+    * Conduct audits
+* Improvements
+    * take corrective actions
+    * Promote a culture of CI
+
+ISO 27002 - Security Controls
 
 ## Understanding PCI DSS
+
 
 
 ## Understanding SABSA
